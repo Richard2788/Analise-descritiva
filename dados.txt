@@ -34,7 +34,7 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
 
@@ -43,7 +43,7 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
 
@@ -52,7 +52,7 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
 
@@ -61,7 +61,7 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
 
@@ -70,7 +70,7 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
 
@@ -79,7 +79,7 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
 
@@ -88,7 +88,7 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
 
@@ -97,7 +97,7 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
 
@@ -106,6 +106,6 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
-Salário Médio: | Fonte:
+Salário Médio: | Fonte: 
 
 ---------------------------
