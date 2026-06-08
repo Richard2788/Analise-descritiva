@@ -1,8 +1,9 @@
 Cursos (UEPG/UTFPR-PG):
 
-- Engenharia de Software
-- Análise e Desenvolvimento de Sistemas
-- Ciências da computação
+- Engenharia de Software (UEPG)
+- Engenharia da Computação (UEPG)
+- Análise e Desenvolvimento de Sistemas (UTFPR)
+- Ciências da computação (UTFPR)
 
 Candidados por vaga (2016-2025):
 ___________________________
