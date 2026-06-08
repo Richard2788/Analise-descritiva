@@ -1,7 +1,8 @@
 Cursos (UEPG/UTFPR-PG):
 
+- Administração (UTFPR)
 - Engenharia de Software (UEPG)
-- Engenharia da Computação (UEPG)
+- Engenharia de Computação (UEPG)
 - Análise e Desenvolvimento de Sistemas (UTFPR)
 - Ciências da computação (UTFPR)
 
@@ -22,10 +23,10 @@ ___________________________
 Engenharia de Software
 
 Ano: 2025
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 156
+Vagas: 4
+Candidatos/Vaga: 39,000
+Nota Mínima: 3952
 Salário Médio: | Fonte: 
 
 ---------------------------
