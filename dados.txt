@@ -113,7 +113,7 @@ Salário Médio: Júnior: R$ 6.000 - R$ 9.000
                 Pleno: R$ 10.000 - R$ 15.000
                 Sênior: R$ 16.000 - R$ 25.000
                 Tech Lead / Arquiteto de Software: 	R$ 20.000 - R$ 35.000
- | Fonte: https://querobolsa.com.br/cursos-e-faculdades/engenharia-de-software/quanto-ganha-engenheiro-de-software-salario
+ | Fonte: https://descomplica.com.br/blog/salario-engenheiro-software/
 
 ---------------------------
 
