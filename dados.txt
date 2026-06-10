@@ -109,11 +109,106 @@ Candidatos: 156
 Vagas: 4
 Candidatos/Vaga: 39,000
 Nota Mínima: 3952
-Salário Médio: Júnior: R$ 6.000 - R$ 9.000
+Salário Médio:1 Júnior: R$ 6.000 - R$ 9.000
                 Pleno: R$ 10.000 - R$ 15.000
                 Sênior: R$ 16.000 - R$ 25.000
                 Tech Lead / Arquiteto de Software: 	R$ 20.000 - R$ 35.000
                 | Fonte: https://descomplica.com.br/blog/salario-engenheiro-software/
+
+---------------------------
+
+Ano: 2024
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+---------------------------
+
+Ano: 2023
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+---------------------------
+
+Ano: 2022
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+---------------------------
+
+Ano: 2021
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+---------------------------
+
+Ano: 2020
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+---------------------------
+
+Ano: 2019
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+---------------------------
+
+Ano: 2018
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+---------------------------
+
+Ano: 2027
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+---------------------------
+
+Ano: 2016
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+Salário Médio: | Fonte: 
+
+______________________________
+
+Engenharia de Computação
+
+Ano: 2025
+Candidatos: 34
+Vagas: 5
+Candidatos/Vaga: 6,800
+Nota Mínima: 3289
+Salário Médio:  Júnior: R$ 3.000 - R$ 10.000
+                Pleno: R$ 4.000 - R$ 12.000
+                Sênior: R$ 8.000 - R$ 21.000
+                | Fonte: https://blog.ung.br/engenharia-da-computacao-salario/#Diferenca_de_salarios_dos_engenheiros_da_computacao_conforme_o_tempo_de_experiencia
 
 ---------------------------
 
