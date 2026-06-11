@@ -1,10 +1,10 @@
 Cursos (UEPG/UTFPR-PG):
 
-- Administração (UTFPR)
+- Administração (UEOG)
 - Engenharia de Software (UEPG)
 - Engenharia de Computação (UEPG)
-- Análise e Desenvolvimento de Sistemas (UTFPR)
-- Ciências da computação (UTFPR)
+- Análise e Desenvolvimento de Sistemas (UTFPR-PG)
+- Ciências da computação (UTFPR-PG)
 
 Candidados por vaga (2016-2025):
 ______________________________
@@ -13,7 +13,7 @@ Template:
 (Curso)
 
 Salário médio atual:     
-                        | Fonte
+                        | Fonte : 
 
 ---------------------------
 
@@ -97,7 +97,7 @@ Nota Mínima:
 
 ______________________________
 
-Engenharia de Software
+Engenharia de Software (UEPG)
 
 Salário Médio atual:  R$ 10.779
                     | Fonte: https://br.indeed.com/career/engenheiro-de-software/salaries
@@ -184,7 +184,7 @@ Nota Mínima:
 
 ______________________________
 
-Engenharia de Computação
+Engenharia de Computação (UEPG)
 
 Salário Médio atual:  R$ 18.000
                     | Fonte: https://www.glassdoor.com.br/Sal%C3%A1rios/engenheiro-de-computacao-sal%C3%A1rio-SRCH_KO0,24.htm
@@ -271,3 +271,176 @@ Nota Mínima:
 
 ______________________________
 
+Administração (UEPG)
+
+Salário médio atual:     R$ 4.407
+                        | Fonte: https://br.indeed.com/career/administrador/salaries?from=top_sb
+
+---------------------------
+
+Ano: 2025
+Candidatos: 308
+Vagas: 30
+Candidatos/Vaga: 10,27
+Nota Mínima: 630,88
+
+---------------------------
+
+Ano: 2024
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2023
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2022
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima:  
+
+---------------------------
+
+Ano: 2021
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2020
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2019
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2018
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2017
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2016
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+______________________________
+
+Análise e Desenvolvimento de Sistemas (UTFPR)
+
+Salário médio atual:    R$ 4.451
+                        | Fonte : https://br.indeed.com/career/analista-de-desenvolvimento-sistemas/salaries?from=top_sb
+
+---------------------------
+
+Ano: 2025
+Candidatos: 308
+Vagas: 30
+Candidatos/Vaga: 10,27
+Nota Mínima: 630,88
+
+---------------------------
+
+Ano: 2024
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2023
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2022
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima:  
+
+---------------------------
+
+Ano: 2021
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2020
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2019
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2018
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2017
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2016
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+______________________________
