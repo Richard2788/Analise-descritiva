@@ -390,7 +390,7 @@ ______________________________
 
 Análise e Desenvolvimento de Sistemas (UTFPR-PG)
 
-Modalidade: 
+Modalidade: Noturno (N)
 Salário médio atual:    R$ 4.451
                         | Fonte : https://br.indeed.com/career/analista-de-desenvolvimento-sistemas/salaries?from=top_sb
 
@@ -407,6 +407,100 @@ Nota Mínima: 427,94
 
 LI_EP
 Nota Mínima: 630,88
+
+---------------------------
+
+Ano: 2024
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2023
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2022
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima:  
+
+---------------------------
+
+Ano: 2021
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2020
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2019
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2018
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2017
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+---------------------------
+
+Ano: 2016
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+______________________________
+
+Ciências de Computação (UTFPR-PG)
+
+Modalidade: Diurno (M/T)
+Salário médio atual:     R$ 5.730
+                        | Fonte : https://br.indeed.com/career/cientista-da-computa%C3%A7%C3%A3o/salaries
+
+---------------------------
+
+Ano: 2025
+
+Candidatos: 269
+Vagas: 44
+Candidatos/Vaga: 6,11
+
+LB_EP
+Nota Mínima: 320,10
+
+LI_EP
+Nota Mínima: 605,88 
 
 ---------------------------
 
