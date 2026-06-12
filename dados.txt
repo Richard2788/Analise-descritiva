@@ -12,12 +12,33 @@ Template:
 
 (Curso)
 
+Modalidade: 
 Salário médio atual:     
                         | Fonte : 
 
 ---------------------------
 
 Ano: 2025
+
+Candidatos: 
+Vagas: 
+Candidatos/Vaga:
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
+Nota Mínima: 
+
+OU
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -99,15 +120,22 @@ ______________________________
 
 Engenharia de Software (UEPG)
 
+Modalidade: 
 Salário Médio atual:  R$ 10.779
                     | Fonte: https://br.indeed.com/career/engenheiro-de-software/salaries
 
 ---------------------------
 
 Ano: 2025
+
 Candidatos: 156
 Vagas: 4
 Candidatos/Vaga: 39,000
+
+Pública
+Nota Mínima: 3952
+
+Universal
 Nota Mínima: 3952
 
 ---------------------------
@@ -186,6 +214,7 @@ ______________________________
 
 Engenharia de Computação (UEPG)
 
+Modalidade: 
 Salário Médio atual:  R$ 18.000
                     | Fonte: https://www.glassdoor.com.br/Sal%C3%A1rios/engenheiro-de-computacao-sal%C3%A1rio-SRCH_KO0,24.htm
 
@@ -273,16 +302,17 @@ ______________________________
 
 Administração (UEPG)
 
+Modalidade: 
 Salário médio atual:     R$ 4.407
                         | Fonte: https://br.indeed.com/career/administrador/salaries?from=top_sb
 
 ---------------------------
 
 Ano: 2025
-Candidatos: 308
-Vagas: 30
-Candidatos/Vaga: 10,27
-Nota Mínima: 630,88
+Candidatos: 99
+Vagas: 8
+Candidatos/Vaga: 12,375
+Nota Mínima: 3171   
 
 ---------------------------
 
@@ -358,17 +388,24 @@ Nota Mínima:
 
 ______________________________
 
-Análise e Desenvolvimento de Sistemas (UTFPR)
+Análise e Desenvolvimento de Sistemas (UTFPR-PG)
 
+Modalidade: 
 Salário médio atual:    R$ 4.451
                         | Fonte : https://br.indeed.com/career/analista-de-desenvolvimento-sistemas/salaries?from=top_sb
 
 ---------------------------
 
 Ano: 2025
+
 Candidatos: 308
 Vagas: 30
 Candidatos/Vaga: 10,27
+
+LB_EP
+Nota Mínima: 427,94
+
+LI_EP
 Nota Mínima: 630,88
 
 ---------------------------
