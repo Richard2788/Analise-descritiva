@@ -121,10 +121,10 @@ Nota Mínima:
 Ano: 2021
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 273
+Vagas: 15
+Candidatos/Vaga: 18,20
+Nota Mínima: 922
 
 Universal
 Candidatos: 
@@ -457,9 +457,9 @@ Nota Mínima:
 Ano: 2021
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+Candidatos: 327
+Vagas: 30
+Candidatos/Vaga: 10,90
 Nota Mínima: 
 
 Universal
@@ -473,9 +473,9 @@ Nota Mínima:
 Ano: 2020
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+Candidatos: 267
+Vagas: 60
+Candidatos/Vaga: 4,45
 Nota Mínima: 
 
 Universal
@@ -489,9 +489,9 @@ Nota Mínima:
 Ano: 2019
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+Candidatos: 336
+Vagas: 30
+Candidatos/Vaga: 11,20
 Nota Mínima: 
 
 Universal
