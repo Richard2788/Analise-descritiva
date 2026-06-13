@@ -22,7 +22,7 @@ Ano: 2025
 
 Candidatos: 
 Vagas: 
-Candidatos/Vaga:
+Candidatos/Vaga: 
 
 LB_EP
 Nota Mínima: 
@@ -44,78 +44,6 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
----------------------------
-
-Ano: 2024
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
-
----------------------------
-
-Ano: 2023
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
-
----------------------------
-
-Ano: 2022
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima:  
-
----------------------------
-
-Ano: 2021
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
-
----------------------------
-
-Ano: 2020
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
-
----------------------------
-
-Ano: 2019
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
-
----------------------------
-
-Ano: 2018
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
-
----------------------------
-
-Ano: 2017
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
-
----------------------------
-
-Ano: 2016
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
-
 ______________________________
 
 Engenharia de Software (UEPG)
@@ -128,19 +56,29 @@ Salário Médio atual:  R$ 10.779
 
 Ano: 2025
 
+Pública
 Candidatos: 156
 Vagas: 4
 Candidatos/Vaga: 39,000
-
-Pública
 Nota Mínima: 3952
 
 Universal
-Nota Mínima: 3952
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
 
 ---------------------------
 
 Ano: 2024
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -149,6 +87,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2023
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -157,14 +103,30 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2022
+
+Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima:  
+Nota Mínima: 
+
+Universal
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
 
 ---------------------------
 
 Ano: 2021
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -173,6 +135,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2020
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -181,6 +151,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2019
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -189,6 +167,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2018
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -197,6 +183,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2017
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -205,6 +199,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2016
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -221,14 +223,30 @@ Salário Médio atual:  R$ 18.000
 ---------------------------
 
 Ano: 2025
+
+Pública
 Candidatos: 34
 Vagas: 5
 Candidatos/Vaga: 6,800
 Nota Mínima: 3289
 
+Universal
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 ---------------------------
 
 Ano: 2024
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -237,6 +255,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2023
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -245,14 +271,30 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2022
+
+Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima:  
+Nota Mínima: 
+
+Universal
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
 
 ---------------------------
 
 Ano: 2021
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -261,6 +303,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2020
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -269,6 +319,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2019
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -277,6 +335,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2018
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -285,6 +351,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2017
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -293,6 +367,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2016
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -309,14 +391,30 @@ Salário médio atual:     R$ 4.407
 ---------------------------
 
 Ano: 2025
+
+Pública
 Candidatos: 99
 Vagas: 8
 Candidatos/Vaga: 12,375
-Nota Mínima: 3171   
+Nota Mínima: 3171
+
+Universal
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
 
 ---------------------------
 
 Ano: 2024
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -325,6 +423,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2023
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -333,14 +439,30 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2022
+
+Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima:  
+Nota Mínima: 
+
+Universal
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
 
 ---------------------------
 
 Ano: 2021
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -349,6 +471,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2020
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -357,6 +487,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2019
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -365,6 +503,14 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2018
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -373,14 +519,30 @@ Nota Mínima:
 ---------------------------
 
 Ano: 2017
+
+Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Universal
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima:  
+
 ---------------------------
 
 Ano: 2016
+
+Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -411,73 +573,127 @@ Nota Mínima: 630,88
 ---------------------------
 
 Ano: 2024
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2023
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2022
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima:  
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
+Nota Mínima: 
 
 ---------------------------
 
 Ano: 2021
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2020
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2019
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2018
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2017
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2016
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ______________________________
@@ -505,73 +721,127 @@ Nota Mínima: 605,88
 ---------------------------
 
 Ano: 2024
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2023
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2022
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima:  
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
+Nota Mínima: 
 
 ---------------------------
 
 Ano: 2021
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2020
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2019
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2018
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ---------------------------
 
 Ano: 2017
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
 Nota Mínima: 
+
+LI_EP
+Nota Mínima:  
 
 ---------------------------
 
 Ano: 2016
+
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
+
+LB_EP
+Nota Mínima: 
+
+LI_EP
 Nota Mínima: 
 
 ______________________________
