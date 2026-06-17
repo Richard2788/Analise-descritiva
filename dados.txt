@@ -18,21 +18,33 @@ Salário médio atual:
 
 ---------------------------
 
-Ano: 2025
+(Ano)
 
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 OU
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -62,6 +74,12 @@ Vagas: 4
 Candidatos/Vaga: 39,000
 Nota Mínima: 3952
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -73,6 +91,12 @@ Nota Mínima:
 Ano: 2024
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -94,6 +118,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -105,6 +135,12 @@ Nota Mínima:
 Ano: 2022
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -126,6 +162,12 @@ Vagas: 15
 Candidatos/Vaga: 18,20
 Nota Mínima: 922
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -137,6 +179,12 @@ Nota Mínima:
 Ano: 2020
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -158,6 +206,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -169,6 +223,12 @@ Nota Mínima:
 Ano: 2018
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -190,6 +250,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -201,6 +267,12 @@ Nota Mínima:
 Ano: 2016
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -230,6 +302,12 @@ Vagas: 5
 Candidatos/Vaga: 6,800
 Nota Mínima: 3289
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -241,6 +319,12 @@ Nota Mínima:
 Ano: 2024
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -262,6 +346,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -278,6 +368,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -289,6 +385,12 @@ Nota Mínima:
 Ano: 2021
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -310,6 +412,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -321,6 +429,12 @@ Nota Mínima:
 Ano: 2019
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -342,6 +456,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -353,6 +473,12 @@ Nota Mínima:
 Ano: 2017
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -374,6 +500,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -384,7 +516,7 @@ ______________________________
 
 Administração (UEPG)
 
-Modalidade: 
+Modalidade: Noturno (N)
 Salário médio atual:     R$ 4.407
                         | Fonte: https://br.indeed.com/career/administrador/salaries?from=top_sb
 
@@ -398,6 +530,12 @@ Vagas: 8
 Candidatos/Vaga: 12,375
 Nota Mínima: 3171
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -409,6 +547,12 @@ Nota Mínima:
 Ano: 2024
 
 Pública
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
+Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
@@ -430,6 +574,12 @@ Vagas:
 Candidatos/Vaga: 
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -441,16 +591,22 @@ Nota Mínima:
 Ano: 2022
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 152
+Vagas: 24
+Candidatos/Vaga: 6,333
+Nota Mínima: 2773
+
+Pública Negros
+Candidatos: 8
+Vagas: 6
+Candidatos/Vaga: 1,333
+Nota Mínima: 1352
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 130
+Vagas: 24
+Candidatos/Vaga: 5,417
+Nota Mínima: 3612
 
 ---------------------------
 
@@ -460,6 +616,12 @@ Pública
 Candidatos: 327
 Vagas: 30
 Candidatos/Vaga: 10,90
+Nota Mínima: 
+
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
 Nota Mínima: 
 
 Universal
@@ -478,6 +640,12 @@ Vagas: 60
 Candidatos/Vaga: 4,45
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -494,6 +662,12 @@ Vagas: 30
 Candidatos/Vaga: 11,20
 Nota Mínima: 
 
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 
+
 Universal
 Candidatos: 
 Vagas: 
@@ -508,13 +682,19 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2922
+
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 2287
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3414
 
 ---------------------------
 
@@ -524,13 +704,19 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3112
+
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 2488
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima:  
+Nota Mínima: 3663
 
 ---------------------------
 
@@ -540,13 +726,19 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2878
+
+Pública Negros
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+Nota Mínima: 2217
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3057
 
 ______________________________
 
@@ -564,11 +756,17 @@ Candidatos: 308
 Vagas: 30
 Candidatos/Vaga: 10,27
 
-LB_EP
+Baixa Renda
 Nota Mínima: 427,94
 
-LI_EP
+Negros Baixa Renda
+Nota Mínima: 
+
+Independentemente de Renda
 Nota Mínima: 630,88
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -578,11 +776,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -592,11 +796,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -606,11 +816,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -620,11 +836,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -634,10 +856,16 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
+Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
 Nota Mínima: 
 
 ---------------------------
@@ -648,11 +876,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -662,10 +896,16 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
+Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
 Nota Mínima: 
 
 ---------------------------
@@ -676,11 +916,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -690,11 +936,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ______________________________
 
@@ -712,11 +964,17 @@ Candidatos: 269
 Vagas: 44
 Candidatos/Vaga: 6,11
 
-LB_EP
+Baixa Renda
 Nota Mínima: 320,10
 
-LI_EP
+Negros Baixa Renda
+Nota Mínima: 
+
+Independentemente de Renda
 Nota Mínima: 605,88 
+
+Negros Independentemente de Renda
+Nota Mínima: 
 
 ---------------------------
 
@@ -726,11 +984,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -740,11 +1004,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -754,11 +1024,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -768,11 +1044,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -782,11 +1064,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -796,10 +1084,16 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
+Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
 Nota Mínima: 
 
 ---------------------------
@@ -810,11 +1104,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -824,11 +1124,17 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
-Nota Mínima:  
+Negros Baixa Renda
+Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ---------------------------
 
@@ -838,10 +1144,16 @@ Candidatos:
 Vagas: 
 Candidatos/Vaga: 
 
-LB_EP
+Baixa Renda
 Nota Mínima: 
 
-LI_EP
+Negros Baixa Renda
 Nota Mínima: 
+
+Independentemente de Renda
+Nota Mínima:
+
+Negros Independentemente de Renda
+Nota Mínima:
 
 ______________________________
