@@ -135,22 +135,22 @@ Nota Mínima:
 Ano: 2022
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 10
+Vagas: 12
+Candidatos/Vaga: 14,417
+Nota Mínima: 3424
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 4
+Vagas: 3
+Candidatos/Vaga: 3,333
+Nota Mínima: 3464
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 222
+Vagas: 11
+Candidatos/Vaga: 20,182
+Nota Mínima: 4904
 
 ---------------------------
 
@@ -226,19 +226,19 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2612
 
 Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: Null
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3638
 
 ---------------------------
 
@@ -248,19 +248,19 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2727
 
 Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: Null
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3574
 
 ---------------------------
 
@@ -270,19 +270,19 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2879
 
 Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2331
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3374
 
 ______________________________
 
@@ -363,22 +363,22 @@ Nota Mínima:
 Ano: 2022
 
 Pública
-Candidatos: 
-Vagas: 
+Candidatos: 322
+Vagas: 14
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2628
 
 Pública Negros
-Candidatos: 
-Vagas: 
+Candidatos: 3
+Vagas: 3
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 4373
 
 Universal
-Candidatos: 
-Vagas: 
+Candidatos: 130
+Vagas: 13
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 4837
 
 ---------------------------
 
@@ -454,19 +454,19 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2898
 
 Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3198
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3539
 
 ---------------------------
 
@@ -476,19 +476,19 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2851
 
 Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: Null
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3872
 
 ---------------------------
 
@@ -498,25 +498,25 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 2657
 
 Pública Negros
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: Null
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 
+Nota Mínima: 3345
 
 ______________________________
 
 Administração (UEPG)
 
-Modalidade: Noturno (N)
+Modalidade: Noturno
 Salário médio atual:     R$ 4.407
                         | Fonte: https://br.indeed.com/career/administrador/salaries?from=top_sb
 
@@ -744,7 +744,7 @@ ______________________________
 
 Análise e Desenvolvimento de Sistemas (UTFPR-PG)
 
-Modalidade: Noturno (N)
+Modalidade: Noturno
 Salário médio atual:    R$ 4.451
                         | Fonte : https://br.indeed.com/career/analista-de-desenvolvimento-sistemas/salaries?from=top_sb
 
@@ -810,22 +810,30 @@ Nota Mínima:
 
 ---------------------------
 
-Ano: 2022
-
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+Ano: 2022 
 
 Baixa Renda
+Candidatos: 57
+Vagas: 3
+Candidatos/Vaga:
 Nota Mínima: 
 
 Negros Baixa Renda
+Candidatos: 24
+Vagas: 2
+Candidatos/Vaga:
 Nota Mínima: 
 
 Independentemente de Renda
+Candidatos: 85
+Vagas: 3
+Candidatos/Vaga:
 Nota Mínima:
 
 Negros Independentemente de Renda
+Candidatos: 14
+Vagas: 2
+Candidatos/Vaga:
 Nota Mínima:
 
 ---------------------------
@@ -952,7 +960,7 @@ ______________________________
 
 Ciências de Computação (UTFPR-PG)
 
-Modalidade: Diurno (M/T)
+Modalidade: Integral
 Salário médio atual:     R$ 5.730
                         | Fonte : https://br.indeed.com/career/cientista-da-computa%C3%A7%C3%A3o/salaries
 
@@ -1020,20 +1028,28 @@ Nota Mínima:
 
 Ano: 2022
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-
 Baixa Renda
+Candidatos: 59
+Vagas: 4
+Candidatos/Vaga:
 Nota Mínima: 
 
 Negros Baixa Renda
+Candidatos: 21
+Vagas: 3
+Candidatos/Vaga:
 Nota Mínima: 
 
 Independentemente de Renda
+Candidatos: 66
+Vagas: 4
+Candidatos/Vaga:
 Nota Mínima:
 
 Negros Independentemente de Renda
+Candidatos: 13
+Vagas: 3
+Candidatos/Vaga:
 Nota Mínima:
 
 ---------------------------
