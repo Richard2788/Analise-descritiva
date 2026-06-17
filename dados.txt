@@ -157,66 +157,66 @@ Nota Mínima: 4904
 Ano: 2021
 
 Pública
-Candidatos: 273
-Vagas: 15
-Candidatos/Vaga: 18,20
-Nota Mínima: 922
+Candidatos: 89
+Vagas: 6
+Candidatos/Vaga: 14,83
+Nota Mínima: 3262
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: Null
+Vagas: Null
+Candidatos/Vaga: Null
+Nota Mínima: Null
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 180
+Vagas: 7
+Candidatos/Vaga: 25,71
+Nota Mínima: 4193
 
 ---------------------------
 
 Ano: 2020
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 71
+Vagas: 12
+Candidatos/Vaga: 5,92
+Nota Mínima: 2940
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 3
+Vagas: 3
+Candidatos/Vaga: 1,00
+Nota Mínima: 1945
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 150
+Vagas: 15
+Candidatos/Vaga: 10,00
+Nota Mínima: 3437
 
 ---------------------------
 
 Ano: 2019
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 88
+Vagas: 6
+Candidatos/Vaga: 14,67
+Nota Mínima: 3007
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 4
+Vagas: 1
+Candidatos/Vaga: 4,00
+Nota Mínima: 2809
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 126
+Vagas: 8
+Candidatos/Vaga: 15,75
+Nota Mínima: 3409
 
 ---------------------------
 
@@ -569,22 +569,22 @@ Nota Mínima:
 Ano: 2023
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 130
+Vagas: 24
+Candidatos/Vaga: 5,42
+Nota Mínima: 2734
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 3
+Vagas: 1
+Candidatos/Vaga: 3,00
+Nota Mínima: 2334
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 86
+Vagas: 30
+Candidatos/Vaga: 2,87
+Nota Mínima: 3345
 
 ---------------------------
 
@@ -613,66 +613,66 @@ Nota Mínima: 3612
 Ano: 2021
 
 Pública
-Candidatos: 327
-Vagas: 30
-Candidatos/Vaga: 10,90
-Nota Mínima: 
+Candidatos: 125
+Vagas: 12
+Candidatos/Vaga: 10,42
+Nota Mínima: 3078
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 8
+Vagas: 3
+Candidatos/Vaga: 2,67
+Nota Mínima: 2449
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 194
+Vagas: 15
+Candidatos/Vaga: 12,93
+Nota Mínima: 3707
 
 ---------------------------
 
 Ano: 2020
 
 Pública
-Candidatos: 267
-Vagas: 60
-Candidatos/Vaga: 4,45
-Nota Mínima: 
+Candidatos: 121
+Vagas: 24
+Candidatos/Vaga: 5,04
+Nota Mínima: 2699
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 7
+Vagas: 6
+Candidatos/Vaga: 1,17
+Nota Mínima: 2129
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 139
+Vagas: 30
+Candidatos/Vaga: 4,63
+Nota Mínima: 2985
 
 ---------------------------
 
 Ano: 2019
 
 Pública
-Candidatos: 336
-Vagas: 30
-Candidatos/Vaga: 11,20
-Nota Mínima: 
+Candidatos: 155
+Vagas: 12
+Candidatos/Vaga: 12,92
+Nota Mínima: 2735
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 5
+Vagas: 3
+Candidatos/Vaga: 1,67
+Nota Mínima: 2658
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+Candidatos: 176
+Vagas: 15
+Candidatos/Vaga: 11,73
+Nota Mínima: 3139
 
 ---------------------------
 
