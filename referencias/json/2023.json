@@ -1,0 +1,1076 @@
+[
+  {
+    "curso": "Administração",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41633.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41633_01.htm",
+        "notaMinima": 2117
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41633_02.htm",
+        "notaMinima": 2734
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41633_03.htm",
+        "notaMinima": 3313
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41633_08.htm",
+        "notaMinima": 2643
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41633_09.htm",
+        "notaMinima": 2334
+      }
+    ]
+  },
+  {
+    "curso": "Administração (Comércio Exterior)",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41691.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41691_01.htm",
+        "notaMinima": 2499
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41691_02.htm",
+        "notaMinima": 2572
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41691_03.htm",
+        "notaMinima": 3585
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41691_09.htm",
+        "notaMinima": 3479
+      }
+    ]
+  },
+  {
+    "curso": "Agronomia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21224.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21224_01.htm",
+        "notaMinima": 2207
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21224_02.htm",
+        "notaMinima": 2788
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21224_03.htm",
+        "notaMinima": 3877
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21224_08.htm",
+        "notaMinima": 1987
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21224_09.htm",
+        "notaMinima": 1894
+      }
+    ]
+  },
+  {
+    "curso": "Artes Visuais - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51872.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51872_01.htm",
+        "notaMinima": 3163
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51872_02.htm",
+        "notaMinima": 2753
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51872_03.htm",
+        "notaMinima": 3539
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51872_08.htm",
+        "notaMinima": 2744
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31484.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31484_01.htm",
+        "notaMinima": 2298
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31484_02.htm",
+        "notaMinima": 2765
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31484_03.htm",
+        "notaMinima": 3842
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31462.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31462_01.htm",
+        "notaMinima": 2041
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31462_02.htm",
+        "notaMinima": 2560
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31462_03.htm",
+        "notaMinima": 3552
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31462_08.htm",
+        "notaMinima": 3663
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31463.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31463_01.htm",
+        "notaMinima": 1802
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31463_02.htm",
+        "notaMinima": 3009
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31463_03.htm",
+        "notaMinima": 3137
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31463_09.htm",
+        "notaMinima": 2226
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41661.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41661_02.htm",
+        "notaMinima": 1965
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41661_03.htm",
+        "notaMinima": 2388
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41661_09.htm",
+        "notaMinima": 2099
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41663.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41663_01.htm",
+        "notaMinima": 2271
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41663_02.htm",
+        "notaMinima": 2556
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41663_03.htm",
+        "notaMinima": 2953
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41663_08.htm",
+        "notaMinima": 2346
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41641.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41641_02.htm",
+        "notaMinima": 2193
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41641_03.htm",
+        "notaMinima": 878
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41641_09.htm",
+        "notaMinima": 1574
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41643.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41643_01.htm",
+        "notaMinima": 2262
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41643_02.htm",
+        "notaMinima": 2080
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41643_03.htm",
+        "notaMinima": 2963
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61621.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61621_01.htm",
+        "notaMinima": 1996
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61621_02.htm",
+        "notaMinima": 3446
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61621_03.htm",
+        "notaMinima": 4797
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61621_08.htm",
+        "notaMinima": 2209
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61621_09.htm",
+        "notaMinima": 4188
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61623.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61623_01.htm",
+        "notaMinima": 2316
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61623_02.htm",
+        "notaMinima": 3663
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61623_03.htm",
+        "notaMinima": 4361
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61623_08.htm",
+        "notaMinima": 3250
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/61623_09.htm",
+        "notaMinima": 2543
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31394.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31394_01.htm",
+        "notaMinima": 2446
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31394_02.htm",
+        "notaMinima": 2367
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31394_03.htm",
+        "notaMinima": 3247
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31394_08.htm",
+        "notaMinima": 1243
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31473.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31473_01.htm",
+        "notaMinima": 2297
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31473_02.htm",
+        "notaMinima": 2928
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31473_03.htm",
+        "notaMinima": 3151
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31473_08.htm",
+        "notaMinima": 1576
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31473_09.htm",
+        "notaMinima": 2051
+      }
+    ]
+  },
+  {
+    "curso": "Enfermagem",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31494.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31494_01.htm",
+        "notaMinima": 2184
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31494_02.htm",
+        "notaMinima": 2692
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31494_03.htm",
+        "notaMinima": 3426
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31494_09.htm",
+        "notaMinima": 1878
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia Civil",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21214.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21214_01.htm",
+        "notaMinima": 1866
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21214_02.htm",
+        "notaMinima": 2545
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21214_03.htm",
+        "notaMinima": 3761
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21214_09.htm",
+        "notaMinima": 2194
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Alimentos",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21254.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21254_02.htm",
+        "notaMinima": 1611
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21254_03.htm",
+        "notaMinima": 2885
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21254_09.htm",
+        "notaMinima": 3353
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Computação",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21264.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21264_01.htm",
+        "notaMinima": 2363
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21264_02.htm",
+        "notaMinima": 2468
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21264_03.htm",
+        "notaMinima": 4097
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21264_08.htm",
+        "notaMinima": 2295
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21264_09.htm",
+        "notaMinima": 3688
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Materiais",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21244.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21244_01.htm",
+        "notaMinima": 2518
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21244_02.htm",
+        "notaMinima": 2116
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21244_03.htm",
+        "notaMinima": 2116
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Software",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21233.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21233_01.htm",
+        "notaMinima": 2525
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21233_02.htm",
+        "notaMinima": 3537
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21233_03.htm",
+        "notaMinima": 4457
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21233_08.htm",
+        "notaMinima": 2449
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21233_09.htm",
+        "notaMinima": 3240
+      }
+    ]
+  },
+  {
+    "curso": "Farmácia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31414.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31414_02.htm",
+        "notaMinima": 2793
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31414_03.htm",
+        "notaMinima": 4280
+      }
+    ]
+  },
+  {
+    "curso": "Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11054.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11054_02.htm",
+        "notaMinima": 2384
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11054_03.htm",
+        "notaMinima": 1886
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11054_09.htm",
+        "notaMinima": 3303
+      }
+    ]
+  },
+  {
+    "curso": "Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11043.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11043_01.htm",
+        "notaMinima": 3014
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11043_02.htm",
+        "notaMinima": 1141
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11043_03.htm",
+        "notaMinima": 2886
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11031.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11031_01.htm",
+        "notaMinima": 4977
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11031_02.htm",
+        "notaMinima": 2025
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11031_03.htm",
+        "notaMinima": 2025
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11023.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11023_02.htm",
+        "notaMinima": 2462
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11023_03.htm",
+        "notaMinima": 2796
+      }
+    ]
+  },
+  {
+    "curso": "História - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51902.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51902_02.htm",
+        "notaMinima": 2007
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51902_03.htm",
+        "notaMinima": 2007
+      }
+    ]
+  },
+  {
+    "curso": "História - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51893.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51893_01.htm",
+        "notaMinima": 2841
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51893_02.htm",
+        "notaMinima": 3478
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51893_03.htm",
+        "notaMinima": 3913
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51893_08.htm",
+        "notaMinima": 2195
+      }
+    ]
+  },
+  {
+    "curso": "Jornalismo - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41674.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41674_02.htm",
+        "notaMinima": 2453
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41674_03.htm",
+        "notaMinima": 3969
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41674_08.htm",
+        "notaMinima": 2373
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41674_09.htm",
+        "notaMinima": 2409
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51592.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51592_01.htm",
+        "notaMinima": 3741
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51592_02.htm",
+        "notaMinima": 1936
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51592_03.htm",
+        "notaMinima": 2123
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51592_08.htm",
+        "notaMinima": 1767
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51593.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51593_01.htm",
+        "notaMinima": 1501
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51593_02.htm",
+        "notaMinima": 2726
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51593_03.htm",
+        "notaMinima": 3155
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51593_08.htm",
+        "notaMinima": 1933
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51593_09.htm",
+        "notaMinima": 2473
+      }
+    ]
+  },
+  {
+    "curso": "Matemática - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11013.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11013_02.htm",
+        "notaMinima": 1937
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11013_03.htm",
+        "notaMinima": 2468
+      }
+    ]
+  },
+  {
+    "curso": "Matemática Aplicada - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11083.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11083_02.htm",
+        "notaMinima": 2689
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11083_03.htm",
+        "notaMinima": 2689
+      }
+    ]
+  },
+  {
+    "curso": "Medicina",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31404.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31404_01.htm",
+        "notaMinima": 4032
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31404_02.htm",
+        "notaMinima": 5514
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31404_03.htm",
+        "notaMinima": 6312
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31404_08.htm",
+        "notaMinima": 5667
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31404_09.htm",
+        "notaMinima": 5965
+      }
+    ]
+  },
+  {
+    "curso": "Música - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51862.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51862_02.htm",
+        "notaMinima": 2497
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51862_03.htm",
+        "notaMinima": 2645
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51862_08.htm",
+        "notaMinima": 2278
+      }
+    ]
+  },
+  {
+    "curso": "Odontologia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31434.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31434_01.htm",
+        "notaMinima": 2157
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31434_02.htm",
+        "notaMinima": 3042
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31434_03.htm",
+        "notaMinima": 4274
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31434_08.htm",
+        "notaMinima": 2028
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/31434_09.htm",
+        "notaMinima": 2862
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51531.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51531_02.htm",
+        "notaMinima": 2887
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51531_03.htm",
+        "notaMinima": 3507
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51531_08.htm",
+        "notaMinima": 2731
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51531_09.htm",
+        "notaMinima": 1858
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51533.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51533_01.htm",
+        "notaMinima": 1770
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51533_02.htm",
+        "notaMinima": 2796
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51533_03.htm",
+        "notaMinima": 3199
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/51533_09.htm",
+        "notaMinima": 2306
+      }
+    ]
+  },
+  {
+    "curso": "Química - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11063.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11063_02.htm",
+        "notaMinima": 2484
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11063_03.htm",
+        "notaMinima": 3123
+      }
+    ]
+  },
+  {
+    "curso": "Química Tecnológica - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11074.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11074_02.htm",
+        "notaMinima": 2526
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/11074_03.htm",
+        "notaMinima": 1787
+      }
+    ]
+  },
+  {
+    "curso": "Serviço Social",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41651.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41651_01.htm",
+        "notaMinima": 2287
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41651_02.htm",
+        "notaMinima": 2023
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41651_03.htm",
+        "notaMinima": 2732
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41651_09.htm",
+        "notaMinima": 2029
+      }
+    ]
+  },
+  {
+    "curso": "Serviço Social",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41653.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41653_01.htm",
+        "notaMinima": 2119
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41653_02.htm",
+        "notaMinima": 2397
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41653_03.htm",
+        "notaMinima": 2855
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41653_08.htm",
+        "notaMinima": 1709
+      }
+    ]
+  },
+  {
+    "curso": "Turismo",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41881.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41881_02.htm",
+        "notaMinima": 2091
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41881_03.htm",
+        "notaMinima": 1406
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/41881_08.htm",
+        "notaMinima": 2767
+      }
+    ]
+  },
+  {
+    "curso": "Zootecnia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21274.htm",
+    "cotas": [
+      {
+        "tipoCota": "Estudantes negros oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21274_01.htm",
+        "notaMinima": 2596
+      },
+      {
+        "tipoCota": "Estudantes oriundos de Instituições Públicas de Ensino",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21274_02.htm",
+        "notaMinima": 2419
+      },
+      {
+        "tipoCota": "Sistema de Vagas Universais",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21274_03.htm",
+        "notaMinima": 2857
+      },
+      {
+        "tipoCota": "Estudantes com deficiência",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21274_08.htm",
+        "notaMinima": 2174
+      },
+      {
+        "tipoCota": "Estudantes negros, independente do percurso de formação escolar",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2023/1/21274_09.htm",
+        "notaMinima": 4032
+      }
+    ]
+  }
+]

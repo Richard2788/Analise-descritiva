@@ -1,0 +1,868 @@
+[
+  {
+    "curso": "Administração",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41633.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41633_01.htm",
+        "notaMinima": 2301
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41633_02.htm",
+        "notaMinima": 2895
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41633_03.htm",
+        "notaMinima": 3143
+      }
+    ]
+  },
+  {
+    "curso": "Administração (Comércio Exterior)",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41691.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41691_02.htm",
+        "notaMinima": 2158
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41691_03.htm",
+        "notaMinima": 3252
+      }
+    ]
+  },
+  {
+    "curso": "Agronomia",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/21224.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21224_01.htm",
+        "notaMinima": 2276
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21224_02.htm",
+        "notaMinima": 2993
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21224_03.htm",
+        "notaMinima": 3377
+      }
+    ]
+  },
+  {
+    "curso": "Artes Visuais - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51872.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51872_01.htm",
+        "notaMinima": 1919
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51872_02.htm",
+        "notaMinima": 2643
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51872_03.htm",
+        "notaMinima": 3110
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31484.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31484_02.htm",
+        "notaMinima": 2374
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31484_03.htm",
+        "notaMinima": 3177
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31462.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31462_02.htm",
+        "notaMinima": 2166
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31462_03.htm",
+        "notaMinima": 3064
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31463.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31463_01.htm",
+        "notaMinima": 1923
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31463_02.htm",
+        "notaMinima": 2573
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31463_03.htm",
+        "notaMinima": 3191
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41661.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41661_01.htm",
+        "notaMinima": 2218
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41661_02.htm",
+        "notaMinima": 2437
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41661_03.htm",
+        "notaMinima": 2592
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41663.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41663_01.htm",
+        "notaMinima": 2493
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41663_02.htm",
+        "notaMinima": 2720
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41663_03.htm",
+        "notaMinima": 2924
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41641.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41641_01.htm",
+        "notaMinima": 1659
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41641_02.htm",
+        "notaMinima": 2491
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41641_03.htm",
+        "notaMinima": 2796
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41643.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41643_01.htm",
+        "notaMinima": 2783
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41643_02.htm",
+        "notaMinima": 2524
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41643_03.htm",
+        "notaMinima": 2694
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/61621.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/61621_01.htm",
+        "notaMinima": 3954
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/61621_02.htm",
+        "notaMinima": 3544
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/61621_03.htm",
+        "notaMinima": 4382
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/61623.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/61623_01.htm",
+        "notaMinima": 3220
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/61623_02.htm",
+        "notaMinima": 3746
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/61623_03.htm",
+        "notaMinima": 4266
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/69623.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/69623_01.htm",
+        "notaMinima": 2852
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/69623_02.htm",
+        "notaMinima": 2881
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/69623_03.htm",
+        "notaMinima": 3676
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31394.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31394_01.htm",
+        "notaMinima": 1728
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31394_02.htm",
+        "notaMinima": 2145
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31394_03.htm",
+        "notaMinima": 2809
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31473.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31473_01.htm",
+        "notaMinima": 2128
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31473_02.htm",
+        "notaMinima": 2492
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31473_03.htm",
+        "notaMinima": 2918
+      }
+    ]
+  },
+  {
+    "curso": "Enfermagem",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31494.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31494_01.htm",
+        "notaMinima": 2457
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31494_02.htm",
+        "notaMinima": 2925
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31494_03.htm",
+        "notaMinima": 3142
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia Civil",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/21214.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21214_01.htm",
+        "notaMinima": 2858
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21214_02.htm",
+        "notaMinima": 3306
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21214_03.htm",
+        "notaMinima": 4305
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Alimentos",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/21254.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21254_01.htm",
+        "notaMinima": 2113
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21254_02.htm",
+        "notaMinima": 2381
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21254_03.htm",
+        "notaMinima": 2764
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Computação",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/21264.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21264_02.htm",
+        "notaMinima": 2681
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21264_03.htm",
+        "notaMinima": 3818
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Materiais",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/21244.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21244_02.htm",
+        "notaMinima": 2392
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21244_03.htm",
+        "notaMinima": 3260
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Software",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/21233.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21233_02.htm",
+        "notaMinima": 2693
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21233_03.htm",
+        "notaMinima": 3539
+      }
+    ]
+  },
+  {
+    "curso": "Farmácia",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31414.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31414_02.htm",
+        "notaMinima": 2526
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31414_03.htm",
+        "notaMinima": 3655
+      }
+    ]
+  },
+  {
+    "curso": "Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/11054.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11054_02.htm",
+        "notaMinima": 2550
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11054_03.htm",
+        "notaMinima": 2989
+      }
+    ]
+  },
+  {
+    "curso": "Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/11043.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11043_02.htm",
+        "notaMinima": 2431
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11043_03.htm",
+        "notaMinima": 2602
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/11031.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11031_02.htm",
+        "notaMinima": 1630
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11031_03.htm",
+        "notaMinima": 2580
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/11023.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11023_01.htm",
+        "notaMinima": 2070
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11023_02.htm",
+        "notaMinima": 2710
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11023_03.htm",
+        "notaMinima": 2209
+      }
+    ]
+  },
+  {
+    "curso": "História - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51893.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51893_01.htm",
+        "notaMinima": 2818
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51893_02.htm",
+        "notaMinima": 3144
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51893_03.htm",
+        "notaMinima": 3625
+      }
+    ]
+  },
+  {
+    "curso": "Jornalismo - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41674.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41674_02.htm",
+        "notaMinima": 2602
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41674_03.htm",
+        "notaMinima": 3830
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Francês",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51563.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51563_02.htm",
+        "notaMinima": 2542
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51563_03.htm",
+        "notaMinima": 2159
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Inglês",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51582.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51582_02.htm",
+        "notaMinima": 2603
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51582_03.htm",
+        "notaMinima": 3345
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Inglês",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51583.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51583_02.htm",
+        "notaMinima": 2653
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51583_03.htm",
+        "notaMinima": 3606
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura-Português/Espanhol",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51572.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51572_01.htm",
+        "notaMinima": 1506
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51572_02.htm",
+        "notaMinima": 2372
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51572_03.htm",
+        "notaMinima": 2271
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura-Português/Espanhol",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51573.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51573_02.htm",
+        "notaMinima": 2670
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51573_03.htm",
+        "notaMinima": 2579
+      }
+    ]
+  },
+  {
+    "curso": "Matemática",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/11013.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11013_01.htm",
+        "notaMinima": 1836
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11013_02.htm",
+        "notaMinima": 2229
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11013_03.htm",
+        "notaMinima": 2303
+      }
+    ]
+  },
+  {
+    "curso": "Matemática Aplicada - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/11084.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11084_02.htm",
+        "notaMinima": 2570
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11084_03.htm",
+        "notaMinima": 1988
+      }
+    ]
+  },
+  {
+    "curso": "Medicina",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31404.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31404_01.htm",
+        "notaMinima": 4400
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31404_02.htm",
+        "notaMinima": 4971
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31404_03.htm",
+        "notaMinima": 5484
+      }
+    ]
+  },
+  {
+    "curso": "Música - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51862.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51862_01.htm",
+        "notaMinima": 2171
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51862_02.htm",
+        "notaMinima": 2227
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51862_03.htm",
+        "notaMinima": 2318
+      }
+    ]
+  },
+  {
+    "curso": "Odontologia",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/31434.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31434_01.htm",
+        "notaMinima": 2674
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31434_02.htm",
+        "notaMinima": 3325
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/31434_03.htm",
+        "notaMinima": 3934
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51531.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51531_01.htm",
+        "notaMinima": 2611
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51531_02.htm",
+        "notaMinima": 2749
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51531_03.htm",
+        "notaMinima": 2158
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/51533.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51533_01.htm",
+        "notaMinima": 2951
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51533_02.htm",
+        "notaMinima": 2638
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/51533_03.htm",
+        "notaMinima": 2577
+      }
+    ]
+  },
+  {
+    "curso": "Química - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/11063.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11063_02.htm",
+        "notaMinima": 2462
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11063_03.htm",
+        "notaMinima": 2749
+      }
+    ]
+  },
+  {
+    "curso": "Química Tecnológica - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/11074.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11074_02.htm",
+        "notaMinima": 2449
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/11074_03.htm",
+        "notaMinima": 2995
+      }
+    ]
+  },
+  {
+    "curso": "Serviço Social",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41651.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41651_01.htm",
+        "notaMinima": 2561
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41651_02.htm",
+        "notaMinima": 2937
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41651_03.htm",
+        "notaMinima": 3094
+      }
+    ]
+  },
+  {
+    "curso": "Turismo",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/41881.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41881_02.htm",
+        "notaMinima": 2590
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/41881_03.htm",
+        "notaMinima": 2892
+      }
+    ]
+  },
+  {
+    "curso": "Zootecnia",
+    "cursoUrl": "https://cps.uepg.br/inicio/verao_2017/1/21274.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21274_02.htm",
+        "notaMinima": 2326
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/verao_2017/1/21274_03.htm",
+        "notaMinima": 2837
+      }
+    ]
+  }
+]

@@ -1,0 +1,811 @@
+[
+  {
+    "curso": "Administração",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41633.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41633_01.htm",
+        "notaMinima": 2449
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41633_02.htm",
+        "notaMinima": 3078
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41633_03.htm",
+        "notaMinima": 3658
+      }
+    ]
+  },
+  {
+    "curso": "Administração (Comércio Exterior)",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41691.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41691_01.htm",
+        "notaMinima": 2856
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41691_02.htm",
+        "notaMinima": 3206
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41691_03.htm",
+        "notaMinima": 4072
+      }
+    ]
+  },
+  {
+    "curso": "Agronomia",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21224.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21224_01.htm",
+        "notaMinima": 2286
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21224_02.htm",
+        "notaMinima": 2945
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21224_03.htm",
+        "notaMinima": 3689
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31484.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31484_01.htm",
+        "notaMinima": 2473
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31484_02.htm",
+        "notaMinima": 2744
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31484_03.htm",
+        "notaMinima": 3650
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31462.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31462_02.htm",
+        "notaMinima": 2519
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31462_03.htm",
+        "notaMinima": 2119
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31463.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31463_01.htm",
+        "notaMinima": 2091
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31463_02.htm",
+        "notaMinima": 2891
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31463_03.htm",
+        "notaMinima": 3061
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41661.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41661_01.htm",
+        "notaMinima": 2782
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41661_02.htm",
+        "notaMinima": 2837
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41661_03.htm",
+        "notaMinima": 3196
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41663.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41663_02.htm",
+        "notaMinima": 3008
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41663_03.htm",
+        "notaMinima": 3266
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41641.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41641_02.htm",
+        "notaMinima": 2359
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41641_03.htm",
+        "notaMinima": 3829
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41643.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41643_01.htm",
+        "notaMinima": 2560
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41643_02.htm",
+        "notaMinima": 3060
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41643_03.htm",
+        "notaMinima": 3561
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/61621.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/61621_01.htm",
+        "notaMinima": 3653
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/61621_02.htm",
+        "notaMinima": 3801
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/61621_03.htm",
+        "notaMinima": 4821
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/61623.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/61623_01.htm",
+        "notaMinima": 3163
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/61623_02.htm",
+        "notaMinima": 3861
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/61623_03.htm",
+        "notaMinima": 4700
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31394.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31394_01.htm",
+        "notaMinima": 1567
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31394_02.htm",
+        "notaMinima": 2709
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31394_03.htm",
+        "notaMinima": 2907
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31473.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31473_01.htm",
+        "notaMinima": 2034
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31473_02.htm",
+        "notaMinima": 2563
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31473_03.htm",
+        "notaMinima": 2662
+      }
+    ]
+  },
+  {
+    "curso": "Enfermagem",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31494.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31494_01.htm",
+        "notaMinima": 2331
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31494_02.htm",
+        "notaMinima": 3204
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31494_03.htm",
+        "notaMinima": 3739
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia Civil",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21214.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21214_02.htm",
+        "notaMinima": 3055
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21214_03.htm",
+        "notaMinima": 4341
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Alimentos",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21254.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21254_02.htm",
+        "notaMinima": 2051
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21254_03.htm",
+        "notaMinima": 3239
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Computação",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21264.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21264_02.htm",
+        "notaMinima": 3134
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21264_03.htm",
+        "notaMinima": 4226
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Materiais",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21244.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21244_01.htm",
+        "notaMinima": 2196
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21244_02.htm",
+        "notaMinima": 2425
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21244_03.htm",
+        "notaMinima": 3498
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Software",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21233.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21233_02.htm",
+        "notaMinima": 3262
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21233_03.htm",
+        "notaMinima": 4193
+      }
+    ]
+  },
+  {
+    "curso": "Farmácia",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31414.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31414_02.htm",
+        "notaMinima": 3201
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31414_03.htm",
+        "notaMinima": 3997
+      }
+    ]
+  },
+  {
+    "curso": "Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11054.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11054_02.htm",
+        "notaMinima": 1565
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11054_03.htm",
+        "notaMinima": 2857
+      }
+    ]
+  },
+  {
+    "curso": "Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11043.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11043_02.htm",
+        "notaMinima": 2582
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11043_03.htm",
+        "notaMinima": 2795
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11031.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11031_01.htm",
+        "notaMinima": 2350
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11031_02.htm",
+        "notaMinima": 2577
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11031_03.htm",
+        "notaMinima": 2480
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11023.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11023_01.htm",
+        "notaMinima": 2795
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11023_02.htm",
+        "notaMinima": 2505
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11023_03.htm",
+        "notaMinima": 2197
+      }
+    ]
+  },
+  {
+    "curso": "História - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51902.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51902_02.htm",
+        "notaMinima": 2942
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51902_03.htm",
+        "notaMinima": 2371
+      }
+    ]
+  },
+  {
+    "curso": "História - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51893.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51893_02.htm",
+        "notaMinima": 3261
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51893_03.htm",
+        "notaMinima": 4016
+      }
+    ]
+  },
+  {
+    "curso": "Jornalismo - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41674.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41674_02.htm",
+        "notaMinima": 3563
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41674_03.htm",
+        "notaMinima": 4440
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Francês",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51563.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51563_03.htm",
+        "notaMinima": 3225
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Inglês",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51582.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51582_02.htm",
+        "notaMinima": 2791
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51582_03.htm",
+        "notaMinima": 3652
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Inglês",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51583.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51583_02.htm",
+        "notaMinima": 3493
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51583_03.htm",
+        "notaMinima": 3782
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura-Português/Espanhol",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51572.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51572_02.htm",
+        "notaMinima": 2690
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51572_03.htm",
+        "notaMinima": 2012
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura-Português/Espanhol",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51573.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51573_02.htm",
+        "notaMinima": 2385
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51573_03.htm",
+        "notaMinima": 3079
+      }
+    ]
+  },
+  {
+    "curso": "Matemática - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11013.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11013_02.htm",
+        "notaMinima": 2015
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11013_03.htm",
+        "notaMinima": 2530
+      }
+    ]
+  },
+  {
+    "curso": "Matemática Aplicada - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11084.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11084_02.htm",
+        "notaMinima": 1555
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11084_03.htm",
+        "notaMinima": 2709
+      }
+    ]
+  },
+  {
+    "curso": "Medicina",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31404.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31404_01.htm",
+        "notaMinima": 4177
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31404_02.htm",
+        "notaMinima": 5587
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31404_03.htm",
+        "notaMinima": 6160
+      }
+    ]
+  },
+  {
+    "curso": "Odontologia",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31434.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31434_01.htm",
+        "notaMinima": 2150
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31434_02.htm",
+        "notaMinima": 3497
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/31434_03.htm",
+        "notaMinima": 4413
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51531.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51531_01.htm",
+        "notaMinima": 2749
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51531_02.htm",
+        "notaMinima": 2465
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51531_03.htm",
+        "notaMinima": 3225
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51533.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51533_01.htm",
+        "notaMinima": 2576
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51533_02.htm",
+        "notaMinima": 3026
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/51533_03.htm",
+        "notaMinima": 3166
+      }
+    ]
+  },
+  {
+    "curso": "Química - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11063.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11063_02.htm",
+        "notaMinima": 1926
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11063_03.htm",
+        "notaMinima": 2103
+      }
+    ]
+  },
+  {
+    "curso": "Química Tecnológica - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11074.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11074_02.htm",
+        "notaMinima": 2761
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/11074_03.htm",
+        "notaMinima": 3600
+      }
+    ]
+  },
+  {
+    "curso": "Serviço Social",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41651.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41651_01.htm",
+        "notaMinima": 2908
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41651_02.htm",
+        "notaMinima": 3108
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41651_03.htm",
+        "notaMinima": 3886
+      }
+    ]
+  },
+  {
+    "curso": "Turismo",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41881.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41881_01.htm",
+        "notaMinima": 2602
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41881_02.htm",
+        "notaMinima": 2184
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/41881_03.htm",
+        "notaMinima": 2243
+      }
+    ]
+  },
+  {
+    "curso": "Zootecnia",
+    "cursoUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21274.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21274_01.htm",
+        "notaMinima": 2109
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21274_02.htm",
+        "notaMinima": 2658
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/primavera_2021/1/21274_03.htm",
+        "notaMinima": 3008
+      }
+    ]
+  }
+]

@@ -1,0 +1,858 @@
+[
+  {
+    "curso": "Administração",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41633.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41633_01.htm",
+        "notaMinima": 2129
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41633_02.htm",
+        "notaMinima": 2699
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41633_03.htm",
+        "notaMinima": 2985
+      }
+    ]
+  },
+  {
+    "curso": "Administração (Comércio Exterior)",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41691.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41691_01.htm",
+        "notaMinima": 2586
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41691_02.htm",
+        "notaMinima": 2030
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41691_03.htm",
+        "notaMinima": 3041
+      }
+    ]
+  },
+  {
+    "curso": "Agronomia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21224.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21224_02.htm",
+        "notaMinima": 2360
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21224_03.htm",
+        "notaMinima": 3247
+      }
+    ]
+  },
+  {
+    "curso": "Artes Visuais - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51872.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51872_02.htm",
+        "notaMinima": 2079
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51872_03.htm",
+        "notaMinima": 2773
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31484.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31484_02.htm",
+        "notaMinima": 2146
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31484_03.htm",
+        "notaMinima": 3073
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31462.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31462_02.htm",
+        "notaMinima": 1859
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31462_03.htm",
+        "notaMinima": 2508
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31463.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31463_02.htm",
+        "notaMinima": 2250
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31463_03.htm",
+        "notaMinima": 2405
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41661.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41661_01.htm",
+        "notaMinima": 2134
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41661_02.htm",
+        "notaMinima": 2234
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41661_03.htm",
+        "notaMinima": 2603
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41663.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41663_01.htm",
+        "notaMinima": 1935
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41663_02.htm",
+        "notaMinima": 2572
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41663_03.htm",
+        "notaMinima": 2219
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41641.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41641_01.htm",
+        "notaMinima": 2566
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41641_02.htm",
+        "notaMinima": 2251
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41641_03.htm",
+        "notaMinima": 1808
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41643.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41643_02.htm",
+        "notaMinima": 2203
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41643_03.htm",
+        "notaMinima": 1731
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/61621.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/61621_01.htm",
+        "notaMinima": 2330
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/61621_02.htm",
+        "notaMinima": 3499
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/61621_03.htm",
+        "notaMinima": 4526
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/61623.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/61623_02.htm",
+        "notaMinima": 3563
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/61623_03.htm",
+        "notaMinima": 4373
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31394.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31394_02.htm",
+        "notaMinima": 2101
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31394_03.htm",
+        "notaMinima": 2680
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31473.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31473_01.htm",
+        "notaMinima": 1740
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31473_02.htm",
+        "notaMinima": 2233
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31473_03.htm",
+        "notaMinima": 2315
+      }
+    ]
+  },
+  {
+    "curso": "Enfermagem",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31494.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31494_01.htm",
+        "notaMinima": 1919
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31494_02.htm",
+        "notaMinima": 2590
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31494_03.htm",
+        "notaMinima": 3059
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia Civil",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21214.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21214_01.htm",
+        "notaMinima": 2825
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21214_02.htm",
+        "notaMinima": 3001
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21214_03.htm",
+        "notaMinima": 3717
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Alimentos",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21254.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21254_01.htm",
+        "notaMinima": 1907
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21254_02.htm",
+        "notaMinima": 2155
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21254_03.htm",
+        "notaMinima": 2382
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Computação",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21264.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21264_02.htm",
+        "notaMinima": 2704
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21264_03.htm",
+        "notaMinima": 3424
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Materiais",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21244.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21244_01.htm",
+        "notaMinima": 2158
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21244_02.htm",
+        "notaMinima": 1664
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21244_03.htm",
+        "notaMinima": 2232
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Software",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21233.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21233_01.htm",
+        "notaMinima": 1942
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21233_02.htm",
+        "notaMinima": 2940
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21233_03.htm",
+        "notaMinima": 3437
+      }
+    ]
+  },
+  {
+    "curso": "Farmácia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31414.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31414_01.htm",
+        "notaMinima": 2126
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31414_02.htm",
+        "notaMinima": 2714
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31414_03.htm",
+        "notaMinima": 3132
+      }
+    ]
+  },
+  {
+    "curso": "Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11054.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11054_02.htm",
+        "notaMinima": 2493
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11054_03.htm",
+        "notaMinima": 2273
+      }
+    ]
+  },
+  {
+    "curso": "Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11043.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11043_01.htm",
+        "notaMinima": 2292
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11043_02.htm",
+        "notaMinima": 2517
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11043_03.htm",
+        "notaMinima": 2366
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11031.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11031_02.htm",
+        "notaMinima": 2232
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11031_03.htm",
+        "notaMinima": 1891
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11023.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11023_01.htm",
+        "notaMinima": 3138
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11023_02.htm",
+        "notaMinima": 2164
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11023_03.htm",
+        "notaMinima": 2433
+      }
+    ]
+  },
+  {
+    "curso": "História - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51902.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51902_02.htm",
+        "notaMinima": 3028
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51902_03.htm",
+        "notaMinima": 2110
+      }
+    ]
+  },
+  {
+    "curso": "História - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51893.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51893_01.htm",
+        "notaMinima": 4012
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51893_02.htm",
+        "notaMinima": 3184
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51893_03.htm",
+        "notaMinima": 3128
+      }
+    ]
+  },
+  {
+    "curso": "Jornalismo - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41674.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41674_01.htm",
+        "notaMinima": 2082
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41674_02.htm",
+        "notaMinima": 2391
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41674_03.htm",
+        "notaMinima": 3987
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Francês",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51563.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51563_02.htm",
+        "notaMinima": 2005
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51563_03.htm",
+        "notaMinima": 2131
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Inglês",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51582.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51582_02.htm",
+        "notaMinima": 1975
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51582_03.htm",
+        "notaMinima": 2302
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura - Português/Inglês",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51583.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51583_02.htm",
+        "notaMinima": 2337
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51583_03.htm",
+        "notaMinima": 3219
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura-Português/Espanhol",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51572.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51572_02.htm",
+        "notaMinima": 2311
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51572_03.htm",
+        "notaMinima": 1933
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura-Português/Espanhol",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51573.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51573_02.htm",
+        "notaMinima": 1965
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51573_03.htm",
+        "notaMinima": 1604
+      }
+    ]
+  },
+  {
+    "curso": "Matemática - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11013.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11013_02.htm",
+        "notaMinima": 2331
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11013_03.htm",
+        "notaMinima": 2388
+      }
+    ]
+  },
+  {
+    "curso": "Matemática Aplicada - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11084.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11084_02.htm",
+        "notaMinima": 2810
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11084_03.htm",
+        "notaMinima": 2513
+      }
+    ]
+  },
+  {
+    "curso": "Medicina",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31404.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31404_01.htm",
+        "notaMinima": 4397
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31404_02.htm",
+        "notaMinima": 5206
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31404_03.htm",
+        "notaMinima": 5910
+      }
+    ]
+  },
+  {
+    "curso": "Música - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51862.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51862_01.htm",
+        "notaMinima": 3025
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51862_02.htm",
+        "notaMinima": 2314
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51862_03.htm",
+        "notaMinima": 2219
+      }
+    ]
+  },
+  {
+    "curso": "Odontologia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31434.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31434_01.htm",
+        "notaMinima": 1924
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31434_02.htm",
+        "notaMinima": 3126
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/31434_03.htm",
+        "notaMinima": 4009
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51531.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51531_01.htm",
+        "notaMinima": 1899
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51531_02.htm",
+        "notaMinima": 2239
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51531_03.htm",
+        "notaMinima": 957
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51533.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51533_01.htm",
+        "notaMinima": 2072
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51533_02.htm",
+        "notaMinima": 2423
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/51533_03.htm",
+        "notaMinima": 202
+      }
+    ]
+  },
+  {
+    "curso": "Química - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11063.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11063_02.htm",
+        "notaMinima": 2003
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11063_03.htm",
+        "notaMinima": 2017
+      }
+    ]
+  },
+  {
+    "curso": "Química Tecnológica - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11074.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11074_02.htm",
+        "notaMinima": 2254
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/11074_03.htm",
+        "notaMinima": 2718
+      }
+    ]
+  },
+  {
+    "curso": "Serviço Social",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41651.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41651_01.htm",
+        "notaMinima": 2451
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41651_02.htm",
+        "notaMinima": 2751
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41651_03.htm",
+        "notaMinima": 2867
+      }
+    ]
+  },
+  {
+    "curso": "Turismo",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41881.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41881_02.htm",
+        "notaMinima": 2161
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/41881_03.htm",
+        "notaMinima": 1656
+      }
+    ]
+  },
+  {
+    "curso": "Zootecnia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21274.htm",
+    "cotas": [
+      {
+        "tipoCota": "- Cota de estudantes negros oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21274_01.htm",
+        "notaMinima": 1548
+      },
+      {
+        "tipoCota": "- Cota de estudantes oriundos das escolas públicas",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21274_02.htm",
+        "notaMinima": 2208
+      },
+      {
+        "tipoCota": "- Cota do sistema universal",
+        "tipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2020/1_retificacao/21274_03.htm",
+        "notaMinima": 2536
+      }
+    ]
+  }
+]

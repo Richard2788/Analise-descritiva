@@ -1,0 +1,1254 @@
+[
+  {
+    "curso": "Administração",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41633.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41633_01.htm",
+        "notaMinima": 2575
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41633_02.htm",
+        "notaMinima": 3171
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41633_03.htm",
+        "notaMinima": 3419
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41633_08.htm",
+        "notaMinima": 897
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41633_09.htm",
+        "notaMinima": 2171
+      }
+    ]
+  },
+  {
+    "curso": "Administração (Comércio Exterior)",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41691.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41691_01.htm",
+        "notaMinima": 2510
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41691_02.htm",
+        "notaMinima": 2505
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41691_03.htm",
+        "notaMinima": 3565
+      }
+    ]
+  },
+  {
+    "curso": "Agronomia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21224.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21224_01.htm",
+        "notaMinima": 2183
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21224_02.htm",
+        "notaMinima": 3195
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21224_03.htm",
+        "notaMinima": 3796
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21224_08.htm",
+        "notaMinima": 2249
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21224_09.htm",
+        "notaMinima": 3032
+      }
+    ]
+  },
+  {
+    "curso": "Arquitetura e Urbanismo - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21283.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21283_01.htm",
+        "notaMinima": 2870
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21283_02.htm",
+        "notaMinima": 3715
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21283_03.htm",
+        "notaMinima": 4502
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21283_08.htm",
+        "notaMinima": 2874
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21283_09.htm",
+        "notaMinima": 3083
+      }
+    ]
+  },
+  {
+    "curso": "Artes Visuais - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51872.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51872_01.htm",
+        "notaMinima": 2648
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51872_02.htm",
+        "notaMinima": 3130
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51872_03.htm",
+        "notaMinima": 3642
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51872_08.htm",
+        "notaMinima": 2747
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51872_09.htm",
+        "notaMinima": 3512
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31484.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31484_01.htm",
+        "notaMinima": 2993
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31484_02.htm",
+        "notaMinima": 3136
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31484_03.htm",
+        "notaMinima": 3773
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31484_08.htm",
+        "notaMinima": 2798
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31484_09.htm",
+        "notaMinima": 2435
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31461.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31461_01.htm",
+        "notaMinima": 1811
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31461_02.htm",
+        "notaMinima": 3187
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31461_03.htm",
+        "notaMinima": 3837
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Biológicas - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31463.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31463_01.htm",
+        "notaMinima": 2432
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31463_02.htm",
+        "notaMinima": 3129
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31463_03.htm",
+        "notaMinima": 3673
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31463_08.htm",
+        "notaMinima": 3628
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41661.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41661_01.htm",
+        "notaMinima": 2458
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41661_02.htm",
+        "notaMinima": 2520
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41661_03.htm",
+        "notaMinima": 3093
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41663.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41663_01.htm",
+        "notaMinima": 2379
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41663_02.htm",
+        "notaMinima": 2739
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41663_03.htm",
+        "notaMinima": 2968
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41663_08.htm",
+        "notaMinima": 2037
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41663_09.htm",
+        "notaMinima": 2660
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41641.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41641_01.htm",
+        "notaMinima": 2396
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41641_02.htm",
+        "notaMinima": 2187
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41641_03.htm",
+        "notaMinima": 1953
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41641_08.htm",
+        "notaMinima": 3249
+      }
+    ]
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41643.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41643_02.htm",
+        "notaMinima": 2832
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41643_03.htm",
+        "notaMinima": 3901
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41643_09.htm",
+        "notaMinima": 3860
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61621.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61621_01.htm",
+        "notaMinima": 3229
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61621_02.htm",
+        "notaMinima": 3997
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61621_03.htm",
+        "notaMinima": 4988
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61621_08.htm",
+        "notaMinima": 3457
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61621_09.htm",
+        "notaMinima": 3564
+      }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61623.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61623_01.htm",
+        "notaMinima": 3936
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61623_02.htm",
+        "notaMinima": 4238
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61623_03.htm",
+        "notaMinima": 4920
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61623_08.htm",
+        "notaMinima": 3113
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/61623_09.htm",
+        "notaMinima": 3740
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31391.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31391_01.htm",
+        "notaMinima": 2215
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31391_02.htm",
+        "notaMinima": 2934
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31391_03.htm",
+        "notaMinima": 3554
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31391_08.htm",
+        "notaMinima": 2267
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31391_09.htm",
+        "notaMinima": 2288
+      }
+    ]
+  },
+  {
+    "curso": "Educação Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31473.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31473_01.htm",
+        "notaMinima": 2602
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31473_02.htm",
+        "notaMinima": 3006
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31473_03.htm",
+        "notaMinima": 3225
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31473_08.htm",
+        "notaMinima": 2973
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31473_09.htm",
+        "notaMinima": 2636
+      }
+    ]
+  },
+  {
+    "curso": "Enfermagem",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31494.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31494_01.htm",
+        "notaMinima": 2348
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31494_02.htm",
+        "notaMinima": 3213
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31494_03.htm",
+        "notaMinima": 3430
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31494_08.htm",
+        "notaMinima": 3433
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31494_09.htm",
+        "notaMinima": 2988
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia Civil",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21214.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21214_01.htm",
+        "notaMinima": 2169
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21214_02.htm",
+        "notaMinima": 3206
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21214_03.htm",
+        "notaMinima": 4000
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21214_08.htm",
+        "notaMinima": 2694
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21214_09.htm",
+        "notaMinima": 2485
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Alimentos",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21254.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21254_01.htm",
+        "notaMinima": 2714
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21254_02.htm",
+        "notaMinima": 2354
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21254_03.htm",
+        "notaMinima": 2192
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Computação",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21264.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21264_01.htm",
+        "notaMinima": 2259
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21264_02.htm",
+        "notaMinima": 3289
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21264_03.htm",
+        "notaMinima": 4040
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21264_09.htm",
+        "notaMinima": 2261
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Materiais",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21244.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21244_01.htm",
+        "notaMinima": 3106
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21244_02.htm",
+        "notaMinima": 1979
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21244_03.htm",
+        "notaMinima": 2676
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21244_09.htm",
+        "notaMinima": 3324
+      }
+    ]
+  },
+  {
+    "curso": "Engenharia de Software",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21233.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21233_01.htm",
+        "notaMinima": 2899
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21233_02.htm",
+        "notaMinima": 3952
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21233_03.htm",
+        "notaMinima": 4706
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21233_08.htm",
+        "notaMinima": 3077
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21233_09.htm",
+        "notaMinima": 4015
+      }
+    ]
+  },
+  {
+    "curso": "Farmácia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31414.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31414_01.htm",
+        "notaMinima": 1967
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31414_02.htm",
+        "notaMinima": 3393
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31414_03.htm",
+        "notaMinima": 4255
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31414_08.htm",
+        "notaMinima": 2627
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31414_09.htm",
+        "notaMinima": 2482
+      }
+    ]
+  },
+  {
+    "curso": "Física - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11054.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11054_01.htm",
+        "notaMinima": 2716
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11054_02.htm",
+        "notaMinima": 3071
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11054_03.htm",
+        "notaMinima": 2546
+      }
+    ]
+  },
+  {
+    "curso": "Física - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11043.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11043_02.htm",
+        "notaMinima": 2085
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11043_03.htm",
+        "notaMinima": 2865
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11031.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11031_02.htm",
+        "notaMinima": 2381
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11031_03.htm",
+        "notaMinima": 2677
+      }
+    ]
+  },
+  {
+    "curso": "Geografia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11023.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11023_01.htm",
+        "notaMinima": 2392
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11023_02.htm",
+        "notaMinima": 1599
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11023_03.htm",
+        "notaMinima": 1819
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11023_09.htm",
+        "notaMinima": 1767
+      }
+    ]
+  },
+  {
+    "curso": "História - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51903.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51903_02.htm",
+        "notaMinima": 2593
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51903_03.htm",
+        "notaMinima": 2351
+      }
+    ]
+  },
+  {
+    "curso": "História - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51893.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51893_01.htm",
+        "notaMinima": 2748
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51893_02.htm",
+        "notaMinima": 3831
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51893_03.htm",
+        "notaMinima": 4022
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51893_08.htm",
+        "notaMinima": 2195
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51893_09.htm",
+        "notaMinima": 3061
+      }
+    ]
+  },
+  {
+    "curso": "Jornalismo - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41674.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41674_01.htm",
+        "notaMinima": 2436
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41674_02.htm",
+        "notaMinima": 3596
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41674_03.htm",
+        "notaMinima": 4187
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41674_08.htm",
+        "notaMinima": 3370
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41674_09.htm",
+        "notaMinima": 2846
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51592.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51592_02.htm",
+        "notaMinima": 1371
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51592_03.htm",
+        "notaMinima": 1896
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51592_08.htm",
+        "notaMinima": 1670
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51592_09.htm",
+        "notaMinima": 1792
+      }
+    ]
+  },
+  {
+    "curso": "Letras - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51593.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51593_01.htm",
+        "notaMinima": 1616
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51593_02.htm",
+        "notaMinima": 2740
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51593_03.htm",
+        "notaMinima": 3196
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51593_08.htm",
+        "notaMinima": 1535
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51593_09.htm",
+        "notaMinima": 2321
+      }
+    ]
+  },
+  {
+    "curso": "Matemática - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11013.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11013_01.htm",
+        "notaMinima": 2326
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11013_02.htm",
+        "notaMinima": 1891
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11013_03.htm",
+        "notaMinima": 1887
+      }
+    ]
+  },
+  {
+    "curso": "Matemática Aplicada - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11083.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11083_02.htm",
+        "notaMinima": 1773
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11083_03.htm",
+        "notaMinima": 2800
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11083_08.htm",
+        "notaMinima": 4030
+      }
+    ]
+  },
+  {
+    "curso": "Medicina",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31404.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31404_01.htm",
+        "notaMinima": 4624
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31404_02.htm",
+        "notaMinima": 5975
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31404_03.htm",
+        "notaMinima": 6352
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31404_08.htm",
+        "notaMinima": 5933
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31404_09.htm",
+        "notaMinima": 5736
+      }
+    ]
+  },
+  {
+    "curso": "Música - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51862.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51862_02.htm",
+        "notaMinima": 2642
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51862_03.htm",
+        "notaMinima": 2107
+      }
+    ]
+  },
+  {
+    "curso": "Nutrição - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31503.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31503_01.htm",
+        "notaMinima": 2628
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31503_02.htm",
+        "notaMinima": 3483
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31503_03.htm",
+        "notaMinima": 4006
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31503_08.htm",
+        "notaMinima": 2736
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31503_09.htm",
+        "notaMinima": 2525
+      }
+    ]
+  },
+  {
+    "curso": "Odontologia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31434.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31434_01.htm",
+        "notaMinima": 2467
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31434_02.htm",
+        "notaMinima": 3646
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31434_03.htm",
+        "notaMinima": 4414
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31434_08.htm",
+        "notaMinima": 2881
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/31434_09.htm",
+        "notaMinima": 3078
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51531.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51531_01.htm",
+        "notaMinima": 2175
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51531_02.htm",
+        "notaMinima": 3226
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51531_03.htm",
+        "notaMinima": 3544
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51531_08.htm",
+        "notaMinima": 3296
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51531_09.htm",
+        "notaMinima": 2937
+      }
+    ]
+  },
+  {
+    "curso": "Pedagogia - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51533.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51533_01.htm",
+        "notaMinima": 1967
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51533_02.htm",
+        "notaMinima": 2872
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51533_03.htm",
+        "notaMinima": 3117
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51533_08.htm",
+        "notaMinima": 1303
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/51533_09.htm",
+        "notaMinima": 2891
+      }
+    ]
+  },
+  {
+    "curso": "Psicologia - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41711.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41711_01.htm",
+        "notaMinima": 3669
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41711_02.htm",
+        "notaMinima": 4134
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41711_03.htm",
+        "notaMinima": 4799
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41711_08.htm",
+        "notaMinima": 3986
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41711_09.htm",
+        "notaMinima": 3677
+      }
+    ]
+  },
+  {
+    "curso": "Química - licenciatura",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11063.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11063_02.htm",
+        "notaMinima": 2389
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11063_03.htm",
+        "notaMinima": 3074
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11063_08.htm",
+        "notaMinima": 1913
+      }
+    ]
+  },
+  {
+    "curso": "Química Tecnológica - bacharelado",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11074.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11074_01.htm",
+        "notaMinima": 2718
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11074_02.htm",
+        "notaMinima": 2499
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/11074_03.htm",
+        "notaMinima": 3279
+      }
+    ]
+  },
+  {
+    "curso": "Serviço Social",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41651.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41651_01.htm",
+        "notaMinima": 2103
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41651_02.htm",
+        "notaMinima": 1930
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41651_03.htm",
+        "notaMinima": 2236
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41651_08.htm",
+        "notaMinima": 1467
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41651_09.htm",
+        "notaMinima": 1863
+      }
+    ]
+  },
+  {
+    "curso": "Serviço Social",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41653.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41653_01.htm",
+        "notaMinima": 2526
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41653_02.htm",
+        "notaMinima": 2605
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41653_03.htm",
+        "notaMinima": 2837
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41653_08.htm",
+        "notaMinima": 2028
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41653_09.htm",
+        "notaMinima": 3249
+      }
+    ]
+  },
+  {
+    "curso": "Turismo",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41881.htm",
+    "cotas": [
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41881_02.htm",
+        "notaMinima": 1737
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/41881_03.htm",
+        "notaMinima": 1987
+      }
+    ]
+  },
+  {
+    "curso": "Zootecnia",
+    "cursoUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21274.htm",
+    "cotas": [
+      {
+        "tipoCota": "negroPublica",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21274_01.htm",
+        "notaMinima": 2080
+      },
+      {
+        "tipoCota": "Publico",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21274_02.htm",
+        "notaMinima": 2902
+      },
+      {
+        "tipoCota": "Universal",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21274_03.htm",
+        "notaMinima": 3380
+      },
+      {
+        "tipoCota": "PCD",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21274_08.htm",
+        "notaMinima": 2109
+      },
+      {
+        "tipoCota": "negroIndepente",
+        "tipotipoCotaUrl": "https://cps.uepg.br/inicio/uepg_2025/1/21274_09.htm",
+        "notaMinima": 2368
+      }
+    ]
+  }
+]
