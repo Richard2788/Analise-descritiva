@@ -248,7 +248,7 @@ Pública
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 2612
+Nota Mínima: 2466
 
 Pública Negros
 Candidatos: 
@@ -260,7 +260,7 @@ Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 3638
+Nota Mínima: 3172
 
 ---------------------------
 
