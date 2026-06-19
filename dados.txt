@@ -1,6 +1,6 @@
 Cursos (UEPG/UTFPR-PG):
 
-- Administração (UEOG)
+- Administração (UEPG)
 - Engenharia de Software (UEPG)
 - Engenharia de Computação (UEPG)
 - Análise e Desenvolvimento de Sistemas (UTFPR-PG)
@@ -245,44 +245,44 @@ Nota Mínima: 3638
 Ano: 2017
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2727
+Candidatos: 73
+Vagas: 6
+Candidatos/Vaga: 12,167
+Nota Mínima: 2693
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: Null
+Candidatos: 5
+Vagas: 2
+Candidat1os/Vaga: 2,500
+Nota Mínima: Indisponível
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3574
+Candidatos: 103
+Vagas: 7
+Candidatos/Vaga: 14,714
+Nota Mínima: 3539
 
 ---------------------------
 
 Ano: 2016
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2879
+Candidatos: 86
+Vagas: 6
+Candidatos/Vaga: 14,333
+Nota Mínima: 2700
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+Candidatos: 3
+Vagas: 1
+Candidatos/Vaga: 3,000
 Nota Mínima: 2331
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3374
+Candidatos: 118
+Vagas: 7
+Candidatos/Vaga: 16,857
+Nota Mínima: 3158
 
 ______________________________
 
@@ -473,43 +473,43 @@ Nota Mínima: 3539
 Ano: 2017
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+Candidatos: 42
+Vagas: 9
+Candidatos/Vaga: 4,667
 Nota Mínima: 2851
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: Null
+Candidatos: Indisponível
+Vagas: Indisponível
+Candidatos/Vaga: Indisponível
+Nota Mínima: Indisponível
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3872
+Candidatos: 103
+Vagas: 8
+Candidatos/Vaga: 12,875
+Nota Mínima: 3818
 
 ---------------------------
 
 Ano: 2016
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+Candidatos: 71
+Vagas: 8
+Candidatos/Vaga: 8,875
 Nota Mínima: 2657
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: Null
+Candidatos: Indisponível
+Vagas: Indisponível
+Candidatos/Vaga: Indisponível
+Nota Mínima: Indisponível
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+Candidatos: 113
+Vagas: 8
+Candidatos/Vaga: 14,125
 Nota Mínima: 3345
 
 ______________________________
@@ -701,44 +701,44 @@ Nota Mínima: 3414
 Ano: 2017
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3112
+Candidatos: 170
+Vagas: 12
+Candidatos/Vaga: 14,167
+Nota Mínima: 2895
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2488
+Candidatos: 8
+Vagas: 3
+Candidatos/Vaga: 2,667
+Nota Mínima: 2301
 
 Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3663
+Candidatos: 173
+Vagas: 15
+Candidatos/Vaga: 11,533
+Nota Mínima: 3143
 
 ---------------------------
 
 Ano: 2016
 
 Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2878
+Candidatos: 189
+Vagas: 12
+Candidatos/Vaga: 15,750
+Nota Mínima: 2559
 
 Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2217
+Candidatos: 10
+Vagas: 3
+Candidatos/Vaga: 14,600
+Nota Mínima: 1902
 
 Universal
 Candidatos: 
 Vagas: 
 Candidatos/Vaga: 
-Nota Mínima: 3057
+Nota Mínima: 2976
 
 ______________________________
 
