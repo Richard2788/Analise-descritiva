@@ -20,291 +20,291 @@ Salário médio atual:
 
 (Ano)
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ou
 
-Baixa Renda
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Baixa Renda
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Negros Baixa Renda
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Negros Baixa Renda
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Independentemente de Renda
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Independentemente de Renda
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Negros Independentemente de Renda
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Negros Independentemente de Renda
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
 OU
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ______________________________
 
 Engenharia de Software (UEPG)
 
-Modalidade: 
-Salário Médio atual:  R$ 10.779
-                    | Fonte: https://br.indeed.com/career/engenheiro-de-software/salaries
+    Modalidade: 
+    Salário Médio atual:  R$ 10.779
+                        | Fonte: https://br.indeed.com/career/engenheiro-de-software/salaries
 
 ---------------------------
 
 Ano: 2025
 
-Pública
-Candidatos: 156
-Vagas: 4
-Candidatos/Vaga: 39,000
-Nota Mínima: 3952
+    Pública
+    Candidatos: 156
+    Vagas: 4
+    Candidatos/Vaga: 39,000
+    Nota Mínima: 3952
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2024
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2023
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2022
 
-Pública
-Candidatos: 10
-Vagas: 12
-Candidatos/Vaga: 14,417
-Nota Mínima: 3424
+    Pública
+    Candidatos: 10
+    Vagas: 12
+    Candidatos/Vaga: 14,417
+    Nota Mínima: 3424
 
-Pública Negros
-Candidatos: 4
-Vagas: 3
-Candidatos/Vaga: 3,333
-Nota Mínima: 3464
+    Pública Negros
+    Candidatos: 4
+    Vagas: 3
+    Candidatos/Vaga: 3,333
+    Nota Mínima: 3464
 
-Universal
-Candidatos: 222
-Vagas: 11
-Candidatos/Vaga: 20,182
-Nota Mínima: 4904
+    Universal
+    Candidatos: 222
+    Vagas: 11
+    Candidatos/Vaga: 20,182
+    Nota Mínima: 4904
 
 ---------------------------
 
 Ano: 2021
 
-Pública
-Candidatos: 89
-Vagas: 6
-Candidatos/Vaga: 14,83
-Nota Mínima: 3262
+    Pública
+    Candidatos: 89
+    Vagas: 6
+    Candidatos/Vaga: 14,83
+    Nota Mínima: 3262
 
-Pública Negros
-Candidatos: Null
-Vagas: Null
-Candidatos/Vaga: Null
-Nota Mínima: Null
+    Pública Negros
+    Candidatos: Null
+    Vagas: Null
+    Candidatos/Vaga: Null
+    Nota Mínima: Null
 
-Universal
-Candidatos: 180
-Vagas: 7
-Candidatos/Vaga: 25,71
-Nota Mínima: 4193
+    Universal
+    Candidatos: 180
+    Vagas: 7
+    Candidatos/Vaga: 25,71
+    Nota Mínima: 4193
 
 ---------------------------
 
 Ano: 2020
 
-Pública
-Candidatos: 71
-Vagas: 12
-Candidatos/Vaga: 5,92
-Nota Mínima: 2940
+    Pública
+    Candidatos: 71
+    Vagas: 12
+    Candidatos/Vaga: 5,92
+    Nota Mínima: 2940
 
-Pública Negros
-Candidatos: 3
-Vagas: 3
-Candidatos/Vaga: 1,00
-Nota Mínima: 1945
+    Pública Negros
+    Candidatos: 3
+    Vagas: 3
+    Candidatos/Vaga: 1,00
+    Nota Mínima: 1945
 
-Universal
-Candidatos: 150
-Vagas: 15
-Candidatos/Vaga: 10,00
-Nota Mínima: 3437
+    Universal
+    Candidatos: 150
+    Vagas: 15
+    Candidatos/Vaga: 10,00
+    Nota Mínima: 3437
 
 ---------------------------
 
 Ano: 2019
 
-Pública
-Candidatos: 88
-Vagas: 6
-Candidatos/Vaga: 14,67
-Nota Mínima: 3007
+    Pública
+    Candidatos: 88
+    Vagas: 6
+    Candidatos/Vaga: 14,67
+    Nota Mínima: 3007
 
-Pública Negros
-Candidatos: 4
-Vagas: 1
-Candidatos/Vaga: 4,00
-Nota Mínima: 2809
+    Pública Negros
+    Candidatos: 4
+    Vagas: 1
+    Candidatos/Vaga: 4,00
+    Nota Mínima: 2809
 
-Universal
-Candidatos: 126
-Vagas: 8
-Candidatos/Vaga: 15,75
-Nota Mínima: 3409
+    Universal
+    Candidatos: 126
+    Vagas: 8
+    Candidatos/Vaga: 15,75
+    Nota Mínima: 3409
 
 ---------------------------
 
 Ano: 2018
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2466
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 2466
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: Null
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: Null
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3172
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 3172
 
 ---------------------------
 
 Ano: 2017
 
-Pública
-Candidatos: 73
-Vagas: 6
-Candidatos/Vaga: 12,167
-Nota Mínima: 2693
+    Pública
+    Candidatos: 73
+    Vagas: 6
+    Candidatos/Vaga: 12,167
+    Nota Mínima: 2693
 
-Pública Negros
-Candidatos: 5
-Vagas: 2
-Candidat1os/Vaga: 2,500
-Nota Mínima: Indisponível
+    Pública Negros
+    Candidatos: 5
+    Vagas: 2
+    Candidat1os/Vaga: 2,500
+    Nota Mínima: Indisponível
 
-Universal
-Candidatos: 103
-Vagas: 7
-Candidatos/Vaga: 14,714
-Nota Mínima: 3539
+    Universal
+    Candidatos: 103
+    Vagas: 7
+    Candidatos/Vaga: 14,714
+    Nota Mínima: 3539
 
 ---------------------------
 
 Ano: 2016
 
-Pública
-Candidatos: 86
-Vagas: 6
-Candidatos/Vaga: 14,333
-Nota Mínima: 2700
+    Pública
+    Candidatos: 86
+    Vagas: 6
+    Candidatos/Vaga: 14,333
+    Nota Mínima: 2700
 
-Pública Negros
-Candidatos: 3
-Vagas: 1
-Candidatos/Vaga: 3,000
-Nota Mínima: 2331
+    Pública Negros
+    Candidatos: 3
+    Vagas: 1
+    Candidatos/Vaga: 3,000
+    Nota Mínima: 2331
 
-Universal
-Candidatos: 118
-Vagas: 7
-Candidatos/Vaga: 16,857
-Nota Mínima: 3158
+    Universal
+    Candidatos: 118
+    Vagas: 7
+    Candidatos/Vaga: 16,857
+    Nota Mínima: 3158
 
 ______________________________
 
@@ -318,880 +318,880 @@ Salário Médio atual:  R$ 18.000
 
 Ano: 2025
 
-Pública
-Candidatos: 34
-Vagas: 5
-Candidatos/Vaga: 6,800
-Nota Mínima: 3289
+    Pública
+    Candidatos: 34
+    Vagas: 5
+    Candidatos/Vaga: 6,800
+    Nota Mínima: 3289
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2024
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2023
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2022
 
-Pública
-Candidatos: 322
-Vagas: 14
-Candidatos/Vaga: 
-Nota Mínima: 2628
+    Pública
+    Candidatos: 322
+    Vagas: 14
+    Candidatos/Vaga: 
+    Nota Mínima: 2628
 
-Pública Negros
-Candidatos: 3
-Vagas: 3
-Candidatos/Vaga: 
-Nota Mínima: 4373
+    Pública Negros
+    Candidatos: 3
+    Vagas: 3
+    Candidatos/Vaga: 
+    Nota Mínima: 4373
 
-Universal
-Candidatos: 130
-Vagas: 13
-Candidatos/Vaga: 
-Nota Mínima: 4837
+    Universal
+    Candidatos: 130
+    Vagas: 13
+    Candidatos/Vaga: 
+    Nota Mínima: 4837
 
 ---------------------------
 
 Ano: 2021
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2020
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2019
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2018
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2898
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 2898
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3198
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 3198
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3539
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 3539
 
 ---------------------------
 
 Ano: 2017
 
-Pública
-Candidatos: 42
-Vagas: 9
-Candidatos/Vaga: 4,667
-Nota Mínima: 2851
+    Pública
+    Candidatos: 42
+    Vagas: 9
+    Candidatos/Vaga: 4,667
+    Nota Mínima: 2851
 
-Pública Negros
-Candidatos: Indisponível
-Vagas: Indisponível
-Candidatos/Vaga: Indisponível
-Nota Mínima: Indisponível
+    Pública Negros
+    Candidatos: Indisponível
+    Vagas: Indisponível
+    Candidatos/Vaga: Indisponível
+    Nota Mínima: Indisponível
 
-Universal
-Candidatos: 103
-Vagas: 8
-Candidatos/Vaga: 12,875
-Nota Mínima: 3818
+    Universal
+    Candidatos: 103
+    Vagas: 8
+    Candidatos/Vaga: 12,875
+    Nota Mínima: 3818
 
 ---------------------------
 
 Ano: 2016
 
-Pública
-Candidatos: 71
-Vagas: 8
-Candidatos/Vaga: 8,875
-Nota Mínima: 2657
+    Pública
+    Candidatos: 71
+    Vagas: 8
+    Candidatos/Vaga: 8,875
+    Nota Mínima: 2657
 
-Pública Negros
-Candidatos: Indisponível
-Vagas: Indisponível
-Candidatos/Vaga: Indisponível
-Nota Mínima: Indisponível
+    Pública Negros
+    Candidatos: Indisponível
+    Vagas: Indisponível
+    Candidatos/Vaga: Indisponível
+    Nota Mínima: Indisponível
 
-Universal
-Candidatos: 113
-Vagas: 8
-Candidatos/Vaga: 14,125
-Nota Mínima: 3345
+    Universal
+    Candidatos: 113
+    Vagas: 8
+    Candidatos/Vaga: 14,125
+    Nota Mínima: 3345
 
 ______________________________
 
 Administração (UEPG)
 
-Modalidade: Noturno
-Salário médio atual:     R$ 4.407
-                        | Fonte: https://br.indeed.com/career/administrador/salaries?from=top_sb
+    Modalidade: Noturno
+    Salário médio atual:     R$ 4.407
+                            | Fonte: https://br.indeed.com/career/administrador/salaries?from=top_sb
 
 ---------------------------
 
 Ano: 2025
 
-Pública
-Candidatos: 99
-Vagas: 8
-Candidatos/Vaga: 12,375
-Nota Mínima: 3171
+    Pública
+    Candidatos: 99
+    Vagas: 8
+    Candidatos/Vaga: 12,375
+    Nota Mínima: 3171
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2024
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2023
 
-Pública
-Candidatos: 130
-Vagas: 24
-Candidatos/Vaga: 5,42
-Nota Mínima: 2734
+    Pública
+    Candidatos: 130
+    Vagas: 24
+    Candidatos/Vaga: 5,42
+    Nota Mínima: 2734
 
-Pública Negros
-Candidatos: 3
-Vagas: 1
-Candidatos/Vaga: 3,00
-Nota Mínima: 2334
+    Pública Negros
+    Candidatos: 3
+    Vagas: 1
+    Candidatos/Vaga: 3,00
+    Nota Mínima: 2334
 
-Universal
-Candidatos: 86
-Vagas: 30
-Candidatos/Vaga: 2,87
-Nota Mínima: 3345
+    Universal
+    Candidatos: 86
+    Vagas: 30
+    Candidatos/Vaga: 2,87
+    Nota Mínima: 3345
 
 ---------------------------
 
 Ano: 2022
 
-Pública
-Candidatos: 152
-Vagas: 24
-Candidatos/Vaga: 6,333
-Nota Mínima: 2773
+    Pública
+    Candidatos: 152
+    Vagas: 24
+    Candidatos/Vaga: 6,333
+    Nota Mínima: 2773
 
-Pública Negros
-Candidatos: 8
-Vagas: 6
-Candidatos/Vaga: 1,333
-Nota Mínima: 1352
+    Pública Negros
+    Candidatos: 8
+    Vagas: 6
+    Candidatos/Vaga: 1,333
+    Nota Mínima: 1352
 
-Universal
-Candidatos: 130
-Vagas: 24
-Candidatos/Vaga: 5,417
-Nota Mínima: 3612
+    Universal
+    Candidatos: 130
+    Vagas: 24
+    Candidatos/Vaga: 5,417
+    Nota Mínima: 3612
 
 ---------------------------
 
 Ano: 2021
 
-Pública
-Candidatos: 125
-Vagas: 12
-Candidatos/Vaga: 10,42
-Nota Mínima: 3078
+    Pública
+    Candidatos: 125
+    Vagas: 12
+    Candidatos/Vaga: 10,42
+    Nota Mínima: 3078
 
-Pública Negros
-Candidatos: 8
-Vagas: 3
-Candidatos/Vaga: 2,67
-Nota Mínima: 2449
+    Pública Negros
+    Candidatos: 8
+    Vagas: 3
+    Candidatos/Vaga: 2,67
+    Nota Mínima: 2449
 
-Universal
-Candidatos: 194
-Vagas: 15
-Candidatos/Vaga: 12,93
-Nota Mínima: 3707
+    Universal
+    Candidatos: 194
+    Vagas: 15
+    Candidatos/Vaga: 12,93
+    Nota Mínima: 3707
 
 ---------------------------
 
 Ano: 2020
 
-Pública
-Candidatos: 121
-Vagas: 24
-Candidatos/Vaga: 5,04
-Nota Mínima: 2699
+    Pública
+    Candidatos: 121
+    Vagas: 24
+    Candidatos/Vaga: 5,04
+    Nota Mínima: 2699
 
-Pública Negros
-Candidatos: 7
-Vagas: 6
-Candidatos/Vaga: 1,17
-Nota Mínima: 2129
+    Pública Negros
+    Candidatos: 7
+    Vagas: 6
+    Candidatos/Vaga: 1,17
+    Nota Mínima: 2129
 
-Universal
-Candidatos: 139
-Vagas: 30
-Candidatos/Vaga: 4,63
-Nota Mínima: 2985
+    Universal
+    Candidatos: 139
+    Vagas: 30
+    Candidatos/Vaga: 4,63
+    Nota Mínima: 2985
 
 ---------------------------
 
 Ano: 2019
 
-Pública
-Candidatos: 155
-Vagas: 12
-Candidatos/Vaga: 12,92
-Nota Mínima: 2735
+    Pública
+    Candidatos: 155
+    Vagas: 12
+    Candidatos/Vaga: 12,92
+    Nota Mínima: 2735
 
-Pública Negros
-Candidatos: 5
-Vagas: 3
-Candidatos/Vaga: 1,67
-Nota Mínima: 2658
+    Pública Negros
+    Candidatos: 5
+    Vagas: 3
+    Candidatos/Vaga: 1,67
+    Nota Mínima: 2658
 
-Universal
-Candidatos: 176
-Vagas: 15
-Candidatos/Vaga: 11,73
-Nota Mínima: 3139
+    Universal
+    Candidatos: 176
+    Vagas: 15
+    Candidatos/Vaga: 11,73
+    Nota Mínima: 3139
 
 ---------------------------
 
 Ano: 2018
 
-Pública
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2922
+    Pública
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 2922
 
-Pública Negros
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2287
+    Pública Negros
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 2287
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 3414
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 3414
 
 ---------------------------
 
 Ano: 2017
 
-Pública
-Candidatos: 170
-Vagas: 12
-Candidatos/Vaga: 14,167
-Nota Mínima: 2895
+    Pública
+    Candidatos: 170
+    Vagas: 12
+    Candidatos/Vaga: 14,167
+    Nota Mínima: 2895
 
-Pública Negros
-Candidatos: 8
-Vagas: 3
-Candidatos/Vaga: 2,667
-Nota Mínima: 2301
+    Pública Negros
+    Candidatos: 8
+    Vagas: 3
+    Candidatos/Vaga: 2,667
+    Nota Mínima: 2301
 
-Universal
-Candidatos: 173
-Vagas: 15
-Candidatos/Vaga: 11,533
-Nota Mínima: 3143
+    Universal
+    Candidatos: 173
+    Vagas: 15
+    Candidatos/Vaga: 11,533
+    Nota Mínima: 3143
 
 ---------------------------
 
 Ano: 2016
 
-Pública
-Candidatos: 189
-Vagas: 12
-Candidatos/Vaga: 15,750
-Nota Mínima: 2559
+    Pública
+    Candidatos: 189
+    Vagas: 12
+    Candidatos/Vaga: 15,750
+    Nota Mínima: 2559
 
-Pública Negros
-Candidatos: 10
-Vagas: 3
-Candidatos/Vaga: 14,600
-Nota Mínima: 1902
+    Pública Negros
+    Candidatos: 10
+    Vagas: 3
+    Candidatos/Vaga: 14,600
+    Nota Mínima: 1902
 
-Universal
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
-Nota Mínima: 2976
+    Universal
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
+    Nota Mínima: 2976
 
 ______________________________
 
 Análise e Desenvolvimento de Sistemas (UTFPR-PG)
 
-Modalidade: Noturno
-Salário médio atual:    R$ 4.451
-                        | Fonte : https://br.indeed.com/career/analista-de-desenvolvimento-sistemas/salaries?from=top_sb
+    Modalidade: Noturno
+    Salário médio atual:    R$ 4.451
+                            | Fonte : https://br.indeed.com/career/analista-de-desenvolvimento-sistemas/salaries?from=top_sb
 
 ---------------------------
 
 Ano: 2025
 
-Candidatos: 308
-Vagas: 30
-Candidatos/Vaga: 10,27
+    Candidatos: 308
+    Vagas: 30
+    Candidatos/Vaga: 10,27
 
-Baixa Renda
-Nota Mínima: 427,94
+    Baixa Renda
+    Nota Mínima: 427,94
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima: 630,88
+    Independentemente de Renda
+    Nota Mínima: 630,88
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2024
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2023
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2022 
 
-Baixa Renda
-Candidatos: 57
-Vagas: 3
-Candidatos/Vaga:
-Nota Mínima: 
+    Baixa Renda
+    Candidatos: 57
+    Vagas: 3
+    Candidatos/Vaga:
+    Nota Mínima: 
 
-Negros Baixa Renda
-Candidatos: 24
-Vagas: 2
-Candidatos/Vaga:
-Nota Mínima: 
+    Negros Baixa Renda
+    Candidatos: 24
+    Vagas: 2
+    Candidatos/Vaga:
+    Nota Mínima: 
 
-Independentemente de Renda
-Candidatos: 85
-Vagas: 3
-Candidatos/Vaga:
-Nota Mínima:
+    Independentemente de Renda
+    Candidatos: 85
+    Vagas: 3
+    Candidatos/Vaga:
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Candidatos: 14
-Vagas: 2
-Candidatos/Vaga:
-Nota Mínima:
+    Negros Independentemente de Renda
+    Candidatos: 14
+    Vagas: 2
+    Candidatos/Vaga:
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2021
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2020
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima: 
+    Negros Independentemente de Renda
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2019
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2018
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima: 
+    Negros Independentemente de Renda
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2017
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2016
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ______________________________
 
 Ciências de Computação (UTFPR-PG)
 
-Modalidade: Integral
-Salário médio atual:     R$ 5.730
-                        | Fonte : https://br.indeed.com/career/cientista-da-computa%C3%A7%C3%A3o/salaries
+    Modalidade: Integral
+    Salário médio atual:     R$ 5.730
+                            | Fonte : https://br.indeed.com/career/cientista-da-computa%C3%A7%C3%A3o/salaries
 
 ---------------------------
 
-Ano: 2025
+    Ano: 2025
 
-Candidatos: 269
-Vagas: 44
-Candidatos/Vaga: 6,11
+    Candidatos: 269
+    Vagas: 44
+    Candidatos/Vaga: 6,11
 
-Baixa Renda
-Nota Mínima: 320,10
+    Baixa Renda
+    Nota Mínima: 320,10
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima: 605,88 
+    Independentemente de Renda
+    Nota Mínima: 605,88 
 
-Negros Independentemente de Renda
-Nota Mínima: 
+    Negros Independentemente de Renda
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2024
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2023
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2022
 
-Baixa Renda
-Candidatos: 59
-Vagas: 4
-Candidatos/Vaga:
-Nota Mínima: 
+    Baixa Renda
+    Candidatos: 59
+    Vagas: 4
+    Candidatos/Vaga:
+    Nota Mínima: 
 
-Negros Baixa Renda
-Candidatos: 21
-Vagas: 3
-Candidatos/Vaga:
-Nota Mínima: 
+    Negros Baixa Renda
+    Candidatos: 21
+    Vagas: 3
+    Candidatos/Vaga:
+    Nota Mínima: 
 
-Independentemente de Renda
-Candidatos: 66
-Vagas: 4
-Candidatos/Vaga:
-Nota Mínima:
+    Independentemente de Renda
+    Candidatos: 66
+    Vagas: 4
+    Candidatos/Vaga:
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Candidatos: 13
-Vagas: 3
-Candidatos/Vaga:
-Nota Mínima:
+    Negros Independentemente de Renda
+    Candidatos: 13
+    Vagas: 3
+    Candidatos/Vaga:
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2021
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2020
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2019
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima: 
+    Negros Independentemente de Renda
+    Nota Mínima: 
 
 ---------------------------
 
 Ano: 2018
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2017
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ---------------------------
 
 Ano: 2016
 
-Candidatos: 
-Vagas: 
-Candidatos/Vaga: 
+    Candidatos: 
+    Vagas: 
+    Candidatos/Vaga: 
 
-Baixa Renda
-Nota Mínima: 
+    Baixa Renda
+    Nota Mínima: 
 
-Negros Baixa Renda
-Nota Mínima: 
+    Negros Baixa Renda
+    Nota Mínima: 
 
-Independentemente de Renda
-Nota Mínima:
+    Independentemente de Renda
+    Nota Mínima:
 
-Negros Independentemente de Renda
-Nota Mínima:
+    Negros Independentemente de Renda
+    Nota Mínima:
 
 ______________________________
