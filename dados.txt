@@ -36,6 +36,28 @@ Nota Mínima:
 Negros Independentemente de Renda
 Nota Mínima:
 
+ou
+
+Baixa Renda
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+
+Negros Baixa Renda
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+
+Independentemente de Renda
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+
+Negros Independentemente de Renda
+Candidatos: 
+Vagas: 
+Candidatos/Vaga: 
+
 OU
 
 Pública
