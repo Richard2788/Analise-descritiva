@@ -245,21 +245,21 @@ Ano: 2019
 Ano: 2018
 
     Pública
-    Candidatos: 
-    Vagas: 
-    Candidatos/Vaga: 
+    Candidatos: 55
+    Vagas: 12
+    Candidatos/Vaga: 4,583
     Nota Mínima: 2466
 
     Pública Negros
-    Candidatos: 
-    Vagas: 
-    Candidatos/Vaga: 
-    Nota Mínima: Null
+    Candidatos: 5
+    Vagas: 3
+    Candidatos/Vaga: 1,667
+    Nota Mínima: Indisponível
 
     Universal
-    Candidatos: 
-    Vagas: 
-    Candidatos/Vaga: 
+    Candidatos: 110
+    Vagas: 15
+    Candidatos/Vaga: 7,333
     Nota Mínima: 3172
 
 ---------------------------
@@ -473,21 +473,21 @@ Ano: 2019
 Ano: 2018
 
     Pública
-    Candidatos: 
-    Vagas: 
-    Candidatos/Vaga: 
+    Candidatos: 43
+    Vagas: 7
+    Candidatos/Vaga: 6,143
     Nota Mínima: 2898
 
     Pública Negros
-    Candidatos: 
-    Vagas: 
-    Candidatos/Vaga: 
+    Candidatos: 2
+    Vagas: 1
+    Candidatos/Vaga: 2,000
     Nota Mínima: 3198
 
     Universal
-    Candidatos: 
-    Vagas: 
-    Candidatos/Vaga: 
+    Candidatos: 86
+    Vagas: 9
+    Candidatos/Vaga: 9,556
     Nota Mínima: 3539
 
 ---------------------------
@@ -757,9 +757,9 @@ Ano: 2016
     Nota Mínima: 1902
 
     Universal
-    Candidatos: 
-    Vagas: 
-    Candidatos/Vaga: 
+    Candidatos: 219
+    Vagas: 15
+    Candidatos/Vaga: 14,600
     Nota Mínima: 2976
 
 ______________________________
