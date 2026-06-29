@@ -168,6 +168,12 @@ Engenharia de Software (UEPG)
         Candidatos/Vaga: 3,333
         Nota Mínima: 3464
 
+        Negros
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+        Nota Mínima:
+
         Universal
         Candidatos: 222
         Vagas: 11
@@ -181,19 +187,19 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 89
         Vagas: 6
-        Candidatos/Vaga: 14,83
+        Candidatos/Vaga: 14,833
         Nota Mínima: 3262
 
         Pública Negros
-        Candidatos: Null
-        Vagas: Null
-        Candidatos/Vaga: Null
-        Nota Mínima: Null
+        Candidatos: 4
+        Vagas: 2
+        Candidatos/Vaga: 2,000
+        Nota Mínima: Indisponível
 
         Universal
         Candidatos: 180
         Vagas: 7
-        Candidatos/Vaga: 25,71
+        Candidatos/Vaga: 25,714
         Nota Mínima: 4193
 
     ---------------------------
@@ -396,6 +402,12 @@ Engenharia de Computação (UEPG)
         Candidatos/Vaga: 
         Nota Mínima: 4373
 
+        Negros
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+        Nota Mínima:
+
         Universal
         Candidatos: 130
         Vagas: 13
@@ -407,22 +419,22 @@ Engenharia de Computação (UEPG)
     Ano: 2021
 
         Pública
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 45
+        Vagas: 7
+        Candidatos/Vaga: 6,429
+        Nota Mínima: 3134
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 1
+        Vagas: 2
+        Candidatos/Vaga: 0,500
+        Nota Mínima: Indisponível
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 160
+        Vagas: 17
+        Candidatos/Vaga: 20,000
+        Nota Mínima: 4226
 
     ---------------------------
 
@@ -616,19 +628,25 @@ Administração (UEPG)
         Candidatos: 152
         Vagas: 24
         Candidatos/Vaga: 6,333
-        Nota Mínima: 2773
+        Nota Mínima: 2716
 
         Pública Negros
         Candidatos: 8
         Vagas: 6
         Candidatos/Vaga: 1,333
-        Nota Mínima: 1352
+        Nota Mínima: 1376
+
+        Negros
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+        Nota Mínima: 1381
 
         Universal
         Candidatos: 130
         Vagas: 24
         Candidatos/Vaga: 5,417
-        Nota Mínima: 3612
+        Nota Mínima: 3302
 
     ---------------------------
 
@@ -637,20 +655,20 @@ Administração (UEPG)
         Pública
         Candidatos: 125
         Vagas: 12
-        Candidatos/Vaga: 10,416
+        Candidatos/Vaga: 10,417
         Nota Mínima: 3078
 
         Pública Negros
         Candidatos: 8
         Vagas: 3
-        Candidatos/Vaga: 2,666
+        Candidatos/Vaga: 2,667
         Nota Mínima: 2449
 
         Universal
         Candidatos: 194
         Vagas: 15
         Candidatos/Vaga: 12,933
-        Nota Mínima: 3707
+        Nota Mínima: 3658
 
     ---------------------------
 
