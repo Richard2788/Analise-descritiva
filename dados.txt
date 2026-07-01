@@ -72,6 +72,12 @@ Cursos (UEPG/UTFPR-PG):
         Candidatos/Vaga: 
         Nota Mínima: 
 
+        Negros
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+        Nota Mínima: 
+
         Universal
         Candidatos: 
         Vagas: 
@@ -135,22 +141,28 @@ Engenharia de Software (UEPG)
     Ano: 2023
 
         Pública
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 151
+        Vagas: 12
+        Candidatos/Vaga: 12,583
+        Nota Mínima: 3537
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 9
+        Vagas: 3
+        Candidatos/Vaga: 3,000
+        Nota Mínima: 2525
+
+        Negros
+        Candidatos: 11
+        Vagas: 2
+        Candidatos/Vaga: 5,500
+        Nota Mínima: 3240
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 171
+        Vagas: 11
+        Candidatos/Vaga: 15,545
+        Nota Mínima: 4457
 
     ---------------------------
 
@@ -369,22 +381,28 @@ Engenharia de Computação (UEPG)
     Ano: 2023
 
         Pública
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 28
+        Vagas: 14
+        Candidatos/Vaga: 2,000
+        Nota Mínima: 2468
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 4
+        Vagas: 3
+        Candidatos/Vaga: 1,333
+        Nota Mínima: 2363
+
+        Negros
+        Candidatos: 3
+        Vagas: 2
+        Candidatos/Vaga: 1,500
+        Nota Mínima: 3688
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 99
+        Vagas: 13
+        Candidatos/Vaga: 7,615
+        Nota Mínima: 4097
 
     ---------------------------
 
