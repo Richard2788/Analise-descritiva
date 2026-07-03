@@ -1060,55 +1060,65 @@ Análise e Desenvolvimento de Sistemas (UTFPR-PG)
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
+        Nota Mínima: 
 
         Negros Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
+        Nota Mínima: 
 
         Independentemente de Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
+        Nota Mínima: 
 
         Negros Independentemente de Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
+        Nota Mínima: 
 
         Ampla Concorrência
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
+        Nota Mínima: 
 
     ---------------------------
 
     Ano: 2016
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 136
+        Vagas: 7
+        Candidatos/Vaga: 19,43
+        Nota Mínima: 569,60
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 60
+        Vagas: 4
+        Candidatos/Vaga: 15,00
+        Nota Mínima: 561,50
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 201
+        Vagas: 7
+        Candidatos/Vaga: 28,71
+        Nota Mínima: 556,86
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 27
+        Vagas: 4
+        Candidatos/Vaga: 6,75
+        Nota Mínima: 561,28
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 357
+        Vagas: 22
+        Candidatos/Vaga: 16,23
+        Nota Mínima: 670,49
 
     ______________________________
 
@@ -1347,28 +1357,33 @@ Ciências de Computação (UTFPR-PG)
     Ano: 2016
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 89
+        Vagas: 7
+        Candidatos/Vaga: 12,71
+        Nota Mínima: 590,97
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 33
+        Vagas: 4
+        Candidatos/Vaga: 8,25
+        Nota Mínima: 730,52
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 151
+        Vagas: 7
+        Candidatos/Vaga: 21,57
+        Nota Mínima: 596,17
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 19
+        Vagas: 4
+        Candidatos/Vaga: 4,75
+        Nota Mínima: 730,52
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 266
+        Vagas: 22
+        Candidatos/Vaga: 12,09
+        Nota Mínima: 606,49
 
     ______________________________
