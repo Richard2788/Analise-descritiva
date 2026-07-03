@@ -88,7 +88,7 @@ Cursos (UEPG/UTFPR-PG):
 
 Engenharia de Software (UEPG)
 
-        Modalidade: 
+        Modalidade: Noturno
         Salário Médio atual:  R$ 10.779
                             | Fonte: https://br.indeed.com/career/engenheiro-de-software/salaries
 
@@ -340,7 +340,7 @@ Engenharia de Software (UEPG)
 
 Engenharia de Computação (UEPG)
 
-    Modalidade: 
+    Modalidade: Integral
     Salário Médio atual:  R$ 18.000
                         | Fonte: https://www.glassdoor.com.br/Sal%C3%A1rios/engenheiro-de-computacao-sal%C3%A1rio-SRCH_KO0,24.htm
 
