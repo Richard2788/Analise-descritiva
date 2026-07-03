@@ -87,6 +87,12 @@
                         CandidatoPorVaga: 0.123,
                         notaMinima: 1234
                     },
+                    {
+                        tipo: 'amConcorrencia',
+                        vagas: 0, candidatos: 0,
+                        CandidatoPorVaga: 0.123,
+                        notaMinima: 1234
+                    }
                 ]
             }
         }
