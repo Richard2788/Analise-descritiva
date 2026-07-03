@@ -130,6 +130,12 @@ Engenharia de Software (UEPG)
         Candidatos/Vaga: 
         Nota Mínima: 
 
+        Negros
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+        Nota Mínima: 
+
         Universal
         Candidatos: 
         Vagas: 
@@ -369,6 +375,12 @@ Engenharia de Computação (UEPG)
         Vagas: 
         Candidatos/Vaga: 
         Nota Mínima: 
+        
+        Negros
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+        Nota Mínima: 
 
         Universal
         Candidatos: 
@@ -599,21 +611,27 @@ Administração (UEPG)
     Ano: 2024
 
         Pública
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 96
+        Vagas: 8
+        Candidatos/Vaga: 12,000
         Nota Mínima: 
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 12
+        Vagas: 6
+        Candidatos/Vaga: 2,000
+        Nota Mínima: 
+
+        Negros
+        Candidatos: 3
+        Vagas: 3
+        Candidatos/Vaga: 1,000
         Nota Mínima: 
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 101
+        Vagas: 24
+        Candidatos/Vaga: 4,208
         Nota Mínima: 
 
     ---------------------------
