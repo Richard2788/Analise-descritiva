@@ -103,44 +103,50 @@ Engenharia de Software (UEPG)
         Nota Mínima: 3952
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 16
+        Vagas: 3
+        Candidatos/Vaga: 5,333
+        Nota Mínima: 2899
+
+        Negros
+        Candidatos: 16
+        Vagas: 2
+        Candidatos/Vaga: 8,000
+        Nota Mínima: 4015
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 176
+        Vagas: 13
+        Candidatos/Vaga: 13,538
+        Nota Mínima: 4706
 
     ---------------------------
 
     Ano: 2024
 
         Pública
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 160
+        Vagas: 4
+        Candidatos/Vaga: 40,000
+        Nota Mínima: 3951
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 11
+        Vagas: 3
+        Candidatos/Vaga: 3,667
+        Nota Mínima: 3486
 
         Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 15
+        Vagas: 2
+        Candidatos/Vaga: 7,500
+        Nota Mínima: 3730
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 184
+        Vagas: 13
+        Candidatos/Vaga: 14,154
+        Nota Mínima: 4692
 
     ---------------------------
 
@@ -349,44 +355,50 @@ Engenharia de Computação (UEPG)
         Nota Mínima: 3289
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 3
+        Vagas: 4
+        Candidatos/Vaga: 0,750
+        Nota Mínima: 2259
+
+        Negros
+        Candidatos: 5
+        Vagas: 2
+        Candidatos/Vaga: 2,500
+        Nota Mínima: 2261
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 81
+        Vagas: 14
+        Candidatos/Vaga: 5,786
+        Nota Mínima: 4040
 
     ---------------------------
 
     Ano: 2024
 
         Pública
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 48
+        Vagas: 5
+        Candidatos/Vaga: 9,600
+        Nota Mínima: 3190
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 3
+        Vagas: 4
+        Candidatos/Vaga: 0,750
+        Nota Mínima: 2341
         
         Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 4
+        Vagas: 2
+        Candidatos/Vaga: 2,000
+        Nota Mínima: 2042
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 80
+        Vagas: 14
+        Candidatos/Vaga: 5,714
+        Nota Mínima: 4060
 
     ---------------------------
 
@@ -595,16 +607,22 @@ Administração (UEPG)
         Nota Mínima: 3171
 
         Pública Negros
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 14
+        Vagas: 6
+        Candidatos/Vaga: 2,333
+        Nota Mínima: 2575
+
+        Negros
+        Candidatos: 5
+        Vagas: 3
+        Candidatos/Vaga: 1,667
+        Nota Mínima: 2171
 
         Universal
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 91
+        Vagas: 24
+        Candidatos/Vaga: 3,792
+        Nota Mínima: 3419
 
     ---------------------------
 
@@ -614,25 +632,25 @@ Administração (UEPG)
         Candidatos: 96
         Vagas: 8
         Candidatos/Vaga: 12,000
-        Nota Mínima: 
+        Nota Mínima: 3277
 
         Pública Negros
         Candidatos: 12
         Vagas: 6
         Candidatos/Vaga: 2,000
-        Nota Mínima: 
+        Nota Mínima: 2065
 
         Negros
         Candidatos: 3
         Vagas: 3
         Candidatos/Vaga: 1,000
-        Nota Mínima: 
+        Nota Mínima: 2262
 
         Universal
         Candidatos: 101
         Vagas: 24
         Candidatos/Vaga: 4,208
-        Nota Mínima: 
+        Nota Mínima: 3522
 
     ---------------------------
 
@@ -922,121 +940,175 @@ Análise e Desenvolvimento de Sistemas (UTFPR-PG)
 
     Ano: 2021
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
     Ano: 2020
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
     Ano: 2019
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
     Ano: 2018
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
     Ano: 2017
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
     Ano: 2016
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ______________________________
 
@@ -1048,7 +1120,7 @@ Ciências de Computação (UTFPR-PG)
 
     ---------------------------
 
-        Ano: 2025
+    Ano: 2025
 
         Candidatos: 269
         Vagas: 44
@@ -1138,41 +1210,59 @@ Ciências de Computação (UTFPR-PG)
 
     Ano: 2021
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
     Ano: 2020
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
@@ -1198,60 +1288,87 @@ Ciências de Computação (UTFPR-PG)
 
     Ano: 2018
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
     Ano: 2017
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ---------------------------
 
     Ano: 2016
 
+        Baixa Renda
         Candidatos: 
         Vagas: 
         Candidatos/Vaga: 
 
-        Baixa Renda
-        Nota Mínima: 
-
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
+
+        Ampla Concorrência
+        Candidatos: 
+        Vagas: 
+        Candidatos/Vaga: 
 
     ______________________________
