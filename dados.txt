@@ -99,25 +99,25 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 156
         Vagas: 4
-        Candidatos/Vaga: 39,000
+        Candidatos/Vaga: 39
         Nota Mínima: 3952
 
         Pública Negros
         Candidatos: 16
         Vagas: 3
-        Candidatos/Vaga: 5,333
+        Candidatos/Vaga: 5
         Nota Mínima: 2899
 
         Negros
         Candidatos: 16
         Vagas: 2
-        Candidatos/Vaga: 8,000
+        Candidatos/Vaga: 8
         Nota Mínima: 4015
 
         Universal
         Candidatos: 176
         Vagas: 13
-        Candidatos/Vaga: 13,538
+        Candidatos/Vaga: 14
         Nota Mínima: 4706
 
     ---------------------------
@@ -127,25 +127,25 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 160
         Vagas: 4
-        Candidatos/Vaga: 40,000
+        Candidatos/Vaga: 40
         Nota Mínima: 3951
 
         Pública Negros
         Candidatos: 11
         Vagas: 3
-        Candidatos/Vaga: 3,667
+        Candidatos/Vaga: 4
         Nota Mínima: 3486
 
         Negros
         Candidatos: 15
         Vagas: 2
-        Candidatos/Vaga: 7,500
+        Candidatos/Vaga: 8
         Nota Mínima: 3730
 
         Universal
         Candidatos: 184
         Vagas: 13
-        Candidatos/Vaga: 14,154
+        Candidatos/Vaga: 14
         Nota Mínima: 4692
 
     ---------------------------
@@ -155,25 +155,25 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 151
         Vagas: 12
-        Candidatos/Vaga: 12,583
+        Candidatos/Vaga: 13
         Nota Mínima: 3537
 
         Pública Negros
         Candidatos: 9
         Vagas: 3
-        Candidatos/Vaga: 3,000
+        Candidatos/Vaga: 3
         Nota Mínima: 2525
 
         Negros
         Candidatos: 11
         Vagas: 2
-        Candidatos/Vaga: 5,500
+        Candidatos/Vaga: 6
         Nota Mínima: 3240
 
         Universal
         Candidatos: 171
         Vagas: 11
-        Candidatos/Vaga: 15,545
+        Candidatos/Vaga: 16
         Nota Mínima: 4457
 
     ---------------------------
@@ -183,25 +183,25 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 173
         Vagas: 12
-        Candidatos/Vaga: 14,417
+        Candidatos/Vaga: 14
         Nota Mínima: 3345
 
         Pública Negros
         Candidatos: 10
         Vagas: 3
-        Candidatos/Vaga: 3,333
+        Candidatos/Vaga: 3
         Nota Mínima: 2947
 
         Negros
         Candidatos: 4
         Vagas: 2
-        Candidatos/Vaga: 2,000
+        Candidatos/Vaga: 2
         Nota Mínima: 2800
 
         Universal
         Candidatos: 222
         Vagas: 11
-        Candidatos/Vaga: 20,182
+        Candidatos/Vaga: 20
         Nota Mínima: 4368
 
     ---------------------------
@@ -211,19 +211,19 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 89
         Vagas: 6
-        Candidatos/Vaga: 14,833
+        Candidatos/Vaga: 15
         Nota Mínima: 3262
 
         Pública Negros
         Candidatos: 4
         Vagas: 2
-        Candidatos/Vaga: 2,000
-        Nota Mínima: Indisponível
+        Candidatos/Vaga: 2
+        Nota Mínima: 0
 
         Universal
         Candidatos: 180
         Vagas: 7
-        Candidatos/Vaga: 25,714
+        Candidatos/Vaga: 26
         Nota Mínima: 4193
 
     ---------------------------
@@ -233,19 +233,19 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 71
         Vagas: 12
-        Candidatos/Vaga: 5,917
+        Candidatos/Vaga: 6
         Nota Mínima: 2940
 
         Pública Negros
         Candidatos: 3
         Vagas: 3
-        Candidatos/Vaga: 1,000
+        Candidatos/Vaga: 1
         Nota Mínima: 1942
 
         Universal
         Candidatos: 150
         Vagas: 15
-        Candidatos/Vaga: 10,000
+        Candidatos/Vaga: 10
         Nota Mínima: 3437
 
     ---------------------------
@@ -255,19 +255,19 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 88
         Vagas: 6
-        Candidatos/Vaga: 14,667
+        Candidatos/Vaga: 15
         Nota Mínima: 3007
 
         Pública Negros
         Candidatos: 4
         Vagas: 1
-        Candidatos/Vaga: 4,000
+        Candidatos/Vaga: 4
         Nota Mínima: 2809
 
         Universal
         Candidatos: 126
         Vagas: 8
-        Candidatos/Vaga: 15,750
+        Candidatos/Vaga: 16
         Nota Mínima: 3409
 
     ---------------------------
@@ -277,19 +277,19 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 55
         Vagas: 12
-        Candidatos/Vaga: 4,583
+        Candidatos/Vaga: 5
         Nota Mínima: 2466
 
         Negros
         Candidatos: 5
         Vagas: 3
-        Candidatos/Vaga: 1,667
-        Nota Mínima: Indisponível
+        Candidatos/Vaga: 2
+        Nota Mínima: 0
 
         Universal
         Candidatos: 110
         Vagas: 15
-        Candidatos/Vaga: 7,333
+        Candidatos/Vaga: 7
         Nota Mínima: 3172
 
     ---------------------------
@@ -299,19 +299,19 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 73
         Vagas: 6
-        Candidatos/Vaga: 12,167
+        Candidatos/Vaga: 12
         Nota Mínima: 2693
 
         Negros
         Candidatos: 5
         Vagas: 2
-        Candidat1os/Vaga: 2,500
-        Nota Mínima: Indisponível
+        Candidat1os/Vaga: 3
+        Nota Mínima: 0
 
         Universal
         Candidatos: 103
         Vagas: 7
-        Candidatos/Vaga: 14,714
+        Candidatos/Vaga: 15
         Nota Mínima: 3539
 
     ---------------------------
@@ -321,19 +321,19 @@ Engenharia de Software (UEPG)
         Pública
         Candidatos: 86
         Vagas: 6
-        Candidatos/Vaga: 14,333
+        Candidatos/Vaga: 14
         Nota Mínima: 2700
 
         Negros
         Candidatos: 3
         Vagas: 1
-        Candidatos/Vaga: 3,000
+        Candidatos/Vaga: 3
         Nota Mínima: 2331
 
         Universal
         Candidatos: 118
         Vagas: 7
-        Candidatos/Vaga: 16,857
+        Candidatos/Vaga: 17
         Nota Mínima: 3158
 
     ______________________________
@@ -351,25 +351,25 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 34
         Vagas: 5
-        Candidatos/Vaga: 6,800
+        Candidatos/Vaga: 7
         Nota Mínima: 3289
 
         Pública Negros
         Candidatos: 3
         Vagas: 4
-        Candidatos/Vaga: 0,750
+        Candidatos/Vaga: 1
         Nota Mínima: 2259
 
         Negros
         Candidatos: 5
         Vagas: 2
-        Candidatos/Vaga: 2,500
+        Candidatos/Vaga: 3
         Nota Mínima: 2261
 
         Universal
         Candidatos: 81
         Vagas: 14
-        Candidatos/Vaga: 5,786
+        Candidatos/Vaga: 6
         Nota Mínima: 4040
 
     ---------------------------
@@ -379,25 +379,25 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 48
         Vagas: 5
-        Candidatos/Vaga: 9,600
+        Candidatos/Vaga: 10
         Nota Mínima: 3190
 
         Pública Negros
         Candidatos: 3
         Vagas: 4
-        Candidatos/Vaga: 0,750
+        Candidatos/Vaga: 1
         Nota Mínima: 2341
         
         Negros
         Candidatos: 4
         Vagas: 2
-        Candidatos/Vaga: 2,000
+        Candidatos/Vaga: 2
         Nota Mínima: 2042
 
         Universal
         Candidatos: 80
         Vagas: 14
-        Candidatos/Vaga: 5,714
+        Candidatos/Vaga: 6
         Nota Mínima: 4060
 
     ---------------------------
@@ -407,25 +407,25 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 28
         Vagas: 14
-        Candidatos/Vaga: 2,000
+        Candidatos/Vaga: 2
         Nota Mínima: 2468
 
         Pública Negros
         Candidatos: 4
         Vagas: 3
-        Candidatos/Vaga: 1,333
+        Candidatos/Vaga: 1
         Nota Mínima: 2363
 
         Negros
         Candidatos: 3
         Vagas: 2
-        Candidatos/Vaga: 1,500
+        Candidatos/Vaga: 2
         Nota Mínima: 3688
 
         Universal
         Candidatos: 99
         Vagas: 13
-        Candidatos/Vaga: 7,615
+        Candidatos/Vaga: 8
         Nota Mínima: 4097
 
     ---------------------------
@@ -435,25 +435,25 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 32
         Vagas: 14
-        Candidatos/Vaga: 2,286
+        Candidatos/Vaga: 2
         Nota Mínima: 2499
 
         Pública Negros
         Candidatos: 1
         Vagas: 3
-        Candidatos/Vaga: 0,333
+        Candidatos/Vaga: 0
         Nota Mínima: 4373
 
         Negros
         Candidatos: 3
         Vagas: 2
-        Candidatos/Vaga: 1,500
+        Candidatos/Vaga: 2
         Nota Mínima: 2474
 
         Universal
         Candidatos: 130
         Vagas: 13
-        Candidatos/Vaga: 
+        Candidatos/Vaga: 10
         Nota Mínima: 4052
 
     ---------------------------
@@ -463,19 +463,19 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 45
         Vagas: 7
-        Candidatos/Vaga: 6,429
+        Candidatos/Vaga: 6
         Nota Mínima: 3134
 
         Pública Negros
         Candidatos: 1
         Vagas: 2
-        Candidatos/Vaga: 0,500
-        Nota Mínima: Indisponível
+        Candidatos/Vaga: 1
+        Nota Mínima: 0
 
         Universal
         Candidatos: 160
         Vagas: 17
-        Candidatos/Vaga: 20,000
+        Candidatos/Vaga: 20
         Nota Mínima: 4226
 
     ---------------------------
@@ -485,19 +485,19 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 53
         Vagas: 14
-        Candidatos/Vaga: 3,786
+        Candidatos/Vaga: 4
         Nota Mínima: 2704
 
         Pública Negros
         Candidatos: 2
         Vagas: 3
-        Candidatos/Vaga: 0,667
+        Candidatos/Vaga: 1
         Nota Mínima: Indisponível
 
         Universal
         Candidatos: 150
         Vagas: 17
-        Candidatos/Vaga: 8,824
+        Candidatos/Vaga: 9
         Nota Mínima: 3424
 
     ---------------------------
@@ -507,19 +507,19 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 38
         Vagas: 7
-        Candidatos/Vaga: 5,429
+        Candidatos/Vaga: 5
         Nota Mínima: 2975
 
         Pública Negros
         Candidatos: 3
         Vagas: 1
-        Candidatos/Vaga: 3,000
-        Nota Mínima: Indisponível
+        Candidatos/Vaga: 3
+        Nota Mínima: 0
 
         Universal
         Candidatos: 97
         Vagas: 9
-        Candidatos/Vaga: 10,778
+        Candidatos/Vaga: 11
         Nota Mínima: 3886
 
     ---------------------------
@@ -529,19 +529,19 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 43
         Vagas: 7
-        Candidatos/Vaga: 6,143
+        Candidatos/Vaga: 6
         Nota Mínima: 2898
 
         Negros
         Candidatos: 2
         Vagas: 1
-        Candidatos/Vaga: 2,000
+        Candidatos/Vaga: 2
         Nota Mínima: 3198
 
         Universal
         Candidatos: 86
         Vagas: 9
-        Candidatos/Vaga: 9,556
+        Candidatos/Vaga: 10
         Nota Mínima: 3539
 
     ---------------------------
@@ -551,19 +551,19 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 42
         Vagas: 9
-        Candidatos/Vaga: 4,667
+        Candidatos/Vaga: 5
         Nota Mínima: 2681
 
         Negros
-        Candidatos: Indisponível
-        Vagas: Indisponível
-        Candidatos/Vaga: Indisponível
-        Nota Mínima: Indisponível
+        Candidatos: 0
+        Vagas: 0
+        Candidatos/Vaga: 0
+        Nota Mínima: 0
 
         Universal
         Candidatos: 103
         Vagas: 8
-        Candidatos/Vaga: 12,875
+        Candidatos/Vaga: 13
         Nota Mínima: 3818
 
     ---------------------------
@@ -573,19 +573,19 @@ Engenharia de Computação (UEPG)
         Pública
         Candidatos: 71
         Vagas: 8
-        Candidatos/Vaga: 8,875
+        Candidatos/Vaga: 9
         Nota Mínima: 2657
 
         Negros
-        Candidatos: Indisponível
-        Vagas: Indisponível
-        Candidatos/Vaga: Indisponível
-        Nota Mínima: Indisponível
+        Candidatos: 0
+        Vagas: 0
+        Candidatos/Vaga: 0
+        Nota Mínima: 0
 
         Universal
         Candidatos: 113
         Vagas: 8
-        Candidatos/Vaga: 14,125
+        Candidatos/Vaga: 14
         Nota Mínima: 3345
 
     ______________________________
@@ -603,25 +603,25 @@ Administração (UEPG)
         Pública
         Candidatos: 99
         Vagas: 8
-        Candidatos/Vaga: 12,375
+        Candidatos/Vaga: 12
         Nota Mínima: 3171
 
         Pública Negros
         Candidatos: 14
         Vagas: 6
-        Candidatos/Vaga: 2,333
+        Candidatos/Vaga: 2
         Nota Mínima: 2575
 
         Negros
         Candidatos: 5
         Vagas: 3
-        Candidatos/Vaga: 1,667
+        Candidatos/Vaga: 2
         Nota Mínima: 2171
 
         Universal
         Candidatos: 91
         Vagas: 24
-        Candidatos/Vaga: 3,792
+        Candidatos/Vaga: 4
         Nota Mínima: 3419
 
     ---------------------------
@@ -631,25 +631,25 @@ Administração (UEPG)
         Pública
         Candidatos: 96
         Vagas: 8
-        Candidatos/Vaga: 12,000
+        Candidatos/Vaga: 12
         Nota Mínima: 3277
 
         Pública Negros
         Candidatos: 12
         Vagas: 6
-        Candidatos/Vaga: 2,000
+        Candidatos/Vaga: 2
         Nota Mínima: 2065
 
         Negros
         Candidatos: 3
         Vagas: 3
-        Candidatos/Vaga: 1,000
+        Candidatos/Vaga: 1
         Nota Mínima: 2262
 
         Universal
         Candidatos: 101
         Vagas: 24
-        Candidatos/Vaga: 4,208
+        Candidatos/Vaga: 4
         Nota Mínima: 3522
 
     ---------------------------
@@ -659,25 +659,25 @@ Administração (UEPG)
         Pública
         Candidatos: 130
         Vagas: 24
-        Candidatos/Vaga: 5,417
+        Candidatos/Vaga: 5
         Nota Mínima: 2734
 
         Pública Negros
         Candidatos: 7
         Vagas: 6
-        Candidatos/Vaga: 1,167
+        Candidatos/Vaga: 1
         Nota Mínima: 2117
 
         Negros
         Candidatos: 6
         Vagas: 3
-        Candidatos/Vaga: 2,000
+        Candidatos/Vaga: 2
         Nota Mínima: 2334
 
         Universal
         Candidatos: 86
         Vagas: 24
-        Candidatos/Vaga: 3,583
+        Candidatos/Vaga: 4
         Nota Mínima: 3313
 
     ---------------------------
@@ -687,25 +687,25 @@ Administração (UEPG)
         Pública
         Candidatos: 152
         Vagas: 24
-        Candidatos/Vaga: 6,333
+        Candidatos/Vaga: 6
         Nota Mínima: 2716
 
         Pública Negros
         Candidatos: 8
         Vagas: 6
-        Candidatos/Vaga: 1,333
+        Candidatos/Vaga: 1
         Nota Mínima: 1376
 
         Negros
         Candidatos: 6
         Vagas: 3
-        Candidatos/Vaga: 2,000
+        Candidatos/Vaga: 2
         Nota Mínima: 1381
 
         Universal
         Candidatos: 130
         Vagas: 24
-        Candidatos/Vaga: 5,417
+        Candidatos/Vaga: 5
         Nota Mínima: 3302
 
     ---------------------------
@@ -715,19 +715,19 @@ Administração (UEPG)
         Pública
         Candidatos: 125
         Vagas: 12
-        Candidatos/Vaga: 10,417
+        Candidatos/Vaga: 10
         Nota Mínima: 3078
 
         Pública Negros
         Candidatos: 8
         Vagas: 3
-        Candidatos/Vaga: 2,667
+        Candidatos/Vaga: 3
         Nota Mínima: 2449
 
         Universal
         Candidatos: 194
         Vagas: 15
-        Candidatos/Vaga: 12,933
+        Candidatos/Vaga: 13
         Nota Mínima: 3658
 
     ---------------------------
@@ -737,19 +737,19 @@ Administração (UEPG)
         Pública
         Candidatos: 121
         Vagas: 24
-        Candidatos/Vaga: 5,042
+        Candidatos/Vaga: 5
         Nota Mínima: 2699
 
         Pública Negros
         Candidatos: 7
         Vagas: 6
-        Candidatos/Vaga: 1,167
+        Candidatos/Vaga: 1
         Nota Mínima: 2129
 
         Universal
         Candidatos: 139
         Vagas: 30
-        Candidatos/Vaga: 4,633
+        Candidatos/Vaga: 5
         Nota Mínima: 2985
 
     ---------------------------
@@ -759,19 +759,19 @@ Administração (UEPG)
         Pública
         Candidatos: 155
         Vagas: 12
-        Candidatos/Vaga: 12,917
+        Candidatos/Vaga: 13
         Nota Mínima: 2735
 
         Negros
         Candidatos: 5
         Vagas: 3
-        Candidatos/Vaga: 1,667
+        Candidatos/Vaga: 2
         Nota Mínima: 2658
 
         Universal
         Candidatos: 176
         Vagas: 15
-        Candidatos/Vaga: 11,733
+        Candidatos/Vaga: 12
         Nota Mínima: 3139
 
     ---------------------------
@@ -781,19 +781,19 @@ Administração (UEPG)
         Pública
         Candidatos: 131
         Vagas: 12
-        Candidatos/Vaga: 10,917
+        Candidatos/Vaga: 11
         Nota Mínima: 2906
 
         Negros
         Candidatos: 4
         Vagas: 3
-        Candidatos/Vaga: 1,333
+        Candidatos/Vaga: 1
         Nota Mínima: 2287
 
         Universal
         Candidatos: 188
         Vagas: 15
-        Candidatos/Vaga: 12,533
+        Candidatos/Vaga: 13
         Nota Mínima: 3351
 
     ---------------------------
@@ -803,19 +803,19 @@ Administração (UEPG)
         Pública
         Candidatos: 170
         Vagas: 12
-        Candidatos/Vaga: 14,167
+        Candidatos/Vaga: 14
         Nota Mínima: 2895
 
         Negros
         Candidatos: 8
         Vagas: 3
-        Candidatos/Vaga: 2,667
+        Candidatos/Vaga: 3
         Nota Mínima: 2301
 
         Universal
         Candidatos: 173
         Vagas: 15
-        Candidatos/Vaga: 11,533
+        Candidatos/Vaga: 12
         Nota Mínima: 3143
 
     ---------------------------
@@ -825,19 +825,19 @@ Administração (UEPG)
         Pública
         Candidatos: 189
         Vagas: 12
-        Candidatos/Vaga: 15,750
+        Candidatos/Vaga: 16
         Nota Mínima: 2559
 
         Negros
         Candidatos: 10
         Vagas: 3
-        Candidatos/Vaga: 3,333
+        Candidatos/Vaga: 3
         Nota Mínima: 1902
 
         Universal
         Candidatos: 219
         Vagas: 15
-        Candidatos/Vaga: 14,600
+        Candidatos/Vaga: 15
         Nota Mínima: 2976
 
     ______________________________
@@ -854,59 +854,68 @@ Análise e Desenvolvimento de Sistemas (UTFPR-PG)
 
         Candidatos: 308
         Vagas: 30
-        Candidatos/Vaga: 10,27
+        Candidatos/Vaga: 10
 
         Baixa Renda
         Nota Mínima: 427,94
 
         Negros Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 454,90
 
         Independentemente de Renda
         Nota Mínima: 630,88
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 420,59
+
+        Ampla Concorrência
+        Nota Mínima: 663,24
 
     ---------------------------
 
     Ano: 2024
 
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 315
+        Vagas: 30
+        Candidatos/Vaga: 11
 
         Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 303,922
 
         Negros Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 387,745
 
         Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 590,196
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 391,667
+
+        Ampla Concorrência
+        Nota Mínima: 627,451
 
     ---------------------------
 
     Ano: 2023
 
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 264
+        Vagas: 21
+        Candidatos/Vaga: 13
 
         Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 418,14
 
         Negros Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 401,47
 
         Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 581,37
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 520,10
+
+        Ampla Concorrência
+        Nota Mínima: 579,90
 
     ---------------------------
 
@@ -915,176 +924,204 @@ Análise e Desenvolvimento de Sistemas (UTFPR-PG)
         Baixa Renda
         Candidatos: 57
         Vagas: 3
-        Candidatos/Vaga:
-        Nota Mínima: 
+        Candidatos/Vaga: 19
+        Nota Mínima: 631,76
 
         Negros Baixa Renda
         Candidatos: 24
         Vagas: 2
-        Candidatos/Vaga:
-        Nota Mínima: 
+        Candidatos/Vaga: 12
+        Nota Mínima: 584,14
 
         Independentemente de Renda
         Candidatos: 85
         Vagas: 3
-        Candidatos/Vaga:
-        Nota Mínima:
+        Candidatos/Vaga: 28
+        Nota Mínima: 684,14
 
         Negros Independentemente de Renda
         Candidatos: 14
         Vagas: 2
-        Candidatos/Vaga:
-        Nota Mínima:
+        Candidatos/Vaga: 7
+        Nota Mínima: 606,16
+
+        Ampla Concorrência
+        Candidatos: 191
+        Vagas: 11
+        Candidatos/Vaga: 17
+        Nota Mínima: 677,74
 
     ---------------------------
 
     Ano: 2021
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 56
+        Vagas: 6
+        Candidatos/Vaga: 9
+        Nota Mínima: 667,18
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 19
+        Vagas: 4
+        Candidatos/Vaga: 5
+        Nota Mínima: 585,29
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 52
+        Vagas: 6
+        Candidatos/Vaga: 9
+        Nota Mínima: 730,44
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 14
+        Vagas: 4
+        Candidatos/Vaga: 4
+        Nota Mínima: 
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 205
+        Vagas: 22
+        Candidatos/Vaga: 9
+        Nota Mínima: 706,72
+
 
     ---------------------------
 
     Ano: 2020
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 120
+        Vagas: 4
+        Candidatos/Vaga: 30
+        Nota Mínima: 643,50
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 60
+        Vagas: 3
+        Candidatos/Vaga: 20
+        Nota Mínima: 600,12
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 114
+        Vagas: 4
+        Candidatos/Vaga: 29
+        Nota Mínima: 656,44
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 19
+        Vagas: 2
+        Candidatos/Vaga: 10
+        Nota Mínima: 561,44
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 240
+        Vagas: 15
+        Candidatos/Vaga: 16
+        Nota Mínima: 661,33
+
 
     ---------------------------
 
     Ano: 2019
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 89
+        Vagas: 4
+        Candidatos/Vaga: 22
+        Nota Mínima: 632,11
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 42
+        Vagas: 3
+        Candidatos/Vaga: 14
+        Nota Mínima: 600,04
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 100
+        Vagas: 4
+        Candidatos/Vaga: 25
+        Nota Mínima: 647,16
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 25
+        Vagas: 2
+        Candidatos/Vaga: 13
+        Nota Mínima: 609,20
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 258
+        Vagas: 15
+        Candidatos/Vaga: 17
+        Nota Mínima: 659,73
 
     ---------------------------
 
     Ano: 2018
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 106
+        Vagas: 4
+        Candidatos/Vaga: 26,50
+        Nota Mínima: 606,79
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 24
+        Vagas: 2
+        Candidatos/Vaga: 12,00
+        Nota Mínima: 604,58
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 107
+        Vagas: 4
+        Candidatos/Vaga: 26,75
+        Nota Mínima: 590,54
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 27
+        Vagas: 2
+        Candidatos/Vaga: 13,50
+        Nota Mínima: 753,73
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 275
+        Vagas: 15
+        Candidatos/Vaga: 18,33
+        Nota Mínima: 753,73
 
     ---------------------------
 
     Ano: 2017
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 171
+        Vagas: 5
+        Candidatos/Vaga: 34,20
+        Nota Mínima: 684,72
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 62
+        Vagas: 3
+        Candidatos/Vaga: 20,67
+        Nota Mínima: 646,88
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 210
+        Vagas: 5
+        Candidatos/Vaga: 42,00
+        Nota Mínima: 715,31
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 18
+        Vagas: 2
+        Candidatos/Vaga: 9,00
+        Nota Mínima: 619,54
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-        Nota Mínima: 
+        Candidatos: 346
+        Vagas: 15
+        Candidatos/Vaga: 23,07
+        Nota Mínima: 629,69
 
     ---------------------------
 
@@ -1134,59 +1171,68 @@ Ciências de Computação (UTFPR-PG)
 
         Candidatos: 269
         Vagas: 44
-        Candidatos/Vaga: 6,11
+        Candidatos/Vaga: 6
 
         Baixa Renda
         Nota Mínima: 320,10
 
         Negros Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 0
 
         Independentemente de Renda
-        Nota Mínima: 605,88 
+        Nota Mínima: 605,88
 
         Negros Independentemente de Renda
-        Nota Mínima: 
+        Nota Mínima: 443,63
+
+        Ampla Concorrência
+        Nota Mínima: 685,29
 
     ---------------------------
 
     Ano: 2024
 
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 264
+        Vagas: 44
+        Candidatos/Vaga: 6
 
         Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 252,941
 
         Negros Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 315,196
 
         Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 442,157
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 341,177
+
+        Ampla Concorrência
+        Nota Mínima: 650,49
 
     ---------------------------
 
     Ano: 2023
 
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 259
+        Vagas: 31
+        Candidatos/Vaga: 8
 
         Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 363,73
 
         Negros Baixa Renda
-        Nota Mínima: 
+        Nota Mínima: 338,24
 
         Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 620,59
 
         Negros Independentemente de Renda
-        Nota Mínima:
+        Nota Mínima: 534,31
+
+        Ampla Concorrência
+        Nota Mínima: 646,57
 
     ---------------------------
 
@@ -1195,162 +1241,203 @@ Ciências de Computação (UTFPR-PG)
         Baixa Renda
         Candidatos: 59
         Vagas: 4
-        Candidatos/Vaga:
-        Nota Mínima: 
+        Candidatos/Vaga: 15
+        Nota Mínima: 678,62
 
         Negros Baixa Renda
         Candidatos: 21
         Vagas: 3
-        Candidatos/Vaga:
-        Nota Mínima: 
+        Candidatos/Vaga: 7
+        Nota Mínima: 587,77
 
         Independentemente de Renda
         Candidatos: 66
         Vagas: 4
-        Candidatos/Vaga:
-        Nota Mínima:
+        Candidatos/Vaga: 17
+        Nota Mínima: 706,54
 
         Negros Independentemente de Renda
         Candidatos: 13
         Vagas: 3
-        Candidatos/Vaga:
-        Nota Mínima:
+        Candidatos/Vaga: 4
+        Nota Mínima: 618,86
+
+        Ampla Concorrência
+        Candidatos: 179
+        Vagas: 16
+        Candidatos/Vaga: 11
+        Nota Mínima: 732,14
 
     ---------------------------
 
     Ano: 2021
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 79
+        Vagas: 4
+        Candidatos/Vaga: 20
+        Nota Mínima: 662,90
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 35
+        Vagas: 3
+        Candidatos/Vaga: 12
+        Nota Mínima: 603,90
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 75
+        Vagas: 4
+        Candidatos/Vaga: 19
+        Nota Mínima: 674,98
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 16
+        Vagas: 2
+        Candidatos/Vaga: 8
+        Nota Mínima: 612,53
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 177
+        Vagas: 15
+        Candidatos/Vaga: 12
+        Nota Mínima: 674,48
+
 
     ---------------------------
 
     Ano: 2020
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 66
+        Vagas: 6
+        Candidatos/Vaga: 11
+        Nota Mínima: 648,38
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 28
+        Vagas: 4
+        Candidatos/Vaga: 7
+        Nota Mínima: 600,18
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 66
+        Vagas: 6
+        Candidatos/Vaga: 11
+        Nota Mínima: 694,00
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 23
+        Vagas: 4
+        Candidatos/Vaga: 6
+        Nota Mínima: 593,49
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 197
+        Vagas: 22
+        Candidatos/Vaga: 9
+        Nota Mínima: 689,52
 
     ---------------------------
 
     Ano: 2019
 
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
-
         Baixa Renda
-        Nota Mínima: 
+        Candidatos: 55
+        Vagas: 6
+        Candidatos/Vaga: 9
+        Nota Mínima: 661,99
 
         Negros Baixa Renda
-        Nota Mínima: 
+        Candidatos: 23
+        Vagas: 4
+        Candidatos/Vaga: 6
+        Nota Mínima: 630,02
 
         Independentemente de Renda
-        Nota Mínima:
+        Candidatos: 66
+        Vagas: 6
+        Candidatos/Vaga: 11
+        Nota Mínima: 695,12
 
         Negros Independentemente de Renda
-        Nota Mínima: 
+        Candidatos: 15
+        Vagas: 4
+        Candidatos/Vaga: 4
+        Nota Mínima: 650,24
+
+        Ampla Concorrência
+        Candidatos: 196
+        Vagas: 22
+        Candidatos/Vaga: 9
+        Nota Mínima: 709,36
 
     ---------------------------
 
     Ano: 2018
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 50
+        Vagas: 5
+        Candidatos/Vaga: 10,00
+        Nota Mínima: 474,78
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 12
+        Vagas: 3
+        Candidatos/Vaga: 4,00
+        Nota Mínima: 623,42
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 62
+        Vagas: 5
+        Candidatos/Vaga: 12,40
+        Nota Mínima: 429,12
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 24
+        Vagas: 3
+        Candidatos/Vaga: 8,00
+        Nota Mínima: 666,72
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 191
+        Vagas: 22
+        Candidatos/Vaga: 8,68
+        Nota Mínima: 657,76
 
     ---------------------------
 
     Ano: 2017
 
         Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 89
+        Vagas: 7
+        Candidatos/Vaga: 12,71
+        Nota Mínima: 614,95
 
         Negros Baixa Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 30
+        Vagas: 4
+        Candidatos/Vaga: 7,50
+        Nota Mínima: 596,10
 
         Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 122
+        Vagas: 7
+        Candidatos/Vaga: 17,43
+        Nota Mínima: 688,57
 
         Negros Independentemente de Renda
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 35
+        Vagas: 4
+        Candidatos/Vaga: 8,75
+        Nota Mínima: 571,20
 
         Ampla Concorrência
-        Candidatos: 
-        Vagas: 
-        Candidatos/Vaga: 
+        Candidatos: 248
+        Vagas: 22
+        Candidatos/Vaga: 11,27
+        Nota Mínima: 583,89
 
     ---------------------------
 
