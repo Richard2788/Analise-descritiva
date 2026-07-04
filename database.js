@@ -148,6 +148,13 @@ export const db = {
                         notaMinima: 0
                     },
                     {
+                        tipo: 'Negros',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Universal',
                         vagas: 7,
                         candidatos: 180,
@@ -169,6 +176,13 @@ export const db = {
                         candidatos: 3,
                         CandidatoPorVaga: 1,
                         notaMinima: 1942
+                    },
+                    {
+                        tipo: 'Negros',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
                     },
                     {
                         tipo: 'Universal',
@@ -194,6 +208,13 @@ export const db = {
                         notaMinima: 2809
                     },
                     {
+                        tipo: 'Negros',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Universal',
                         vagas: 8,
                         candidatos: 126,
@@ -208,6 +229,13 @@ export const db = {
                         candidatos: 55,
                         CandidatoPorVaga: 5,
                         notaMinima: 2466
+                    },
+                    {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
                     },
                     {
                         tipo: 'Negros',
@@ -233,6 +261,13 @@ export const db = {
                         notaMinima: 2693
                     },
                     {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Negros',
                         vagas: 2,
                         candidatos: 5,
@@ -254,6 +289,13 @@ export const db = {
                         candidatos: 86,
                         CandidatoPorVaga: 14,
                         notaMinima: 2700
+                    },
+                    {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
                     },
                     {
                         tipo: 'Negros',
@@ -420,6 +462,13 @@ export const db = {
                         notaMinima: 0
                     },
                     {
+                        tipo: 'Negros',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Universal',
                         vagas: 17,
                         candidatos: 160,
@@ -440,6 +489,13 @@ export const db = {
                         vagas: 3,
                         candidatos: 2,
                         CandidatoPorVaga: 1,
+                        notaMinima: 0
+                    },
+                    {
+                        tipo: 'Negros',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
                         notaMinima: 0
                     },
                     {
@@ -466,6 +522,13 @@ export const db = {
                         notaMinima: 0
                     },
                     {
+                        tipo: 'Negros',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Universal',
                         vagas: 9,
                         candidatos: 97,
@@ -480,6 +543,13 @@ export const db = {
                         candidatos: 43,
                         CandidatoPorVaga: 6,
                         notaMinima: 2898
+                    },
+                    {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
                     },
                     {
                         tipo: 'Negros',
@@ -505,6 +575,13 @@ export const db = {
                         notaMinima: 2681
                     },
                     {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Negros',
                         vagas: 0,
                         candidatos: 0,
@@ -526,6 +603,13 @@ export const db = {
                         candidatos: 71,
                         CandidatoPorVaga: 9,
                         notaMinima: 2657
+                    },
+                    {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
                     },
                     {
                         tipo: 'Negros',
@@ -692,6 +776,13 @@ export const db = {
                         notaMinima: 2449
                     },
                     {
+                        tipo: 'Negros',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Universal',
                         vagas: 15,
                         candidatos: 194,
@@ -715,6 +806,13 @@ export const db = {
                         notaMinima: 2129
                     },
                     {
+                        tipo: 'Negros',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Universal',
                         vagas: 30,
                         candidatos: 139,
@@ -729,6 +827,13 @@ export const db = {
                         candidatos: 155,
                         CandidatoPorVaga: 13,
                         notaMinima: 2735
+                    },
+                    {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
                     },
                     {
                         tipo: 'Negros',
@@ -754,6 +859,13 @@ export const db = {
                         notaMinima: 2906
                     },
                     {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Negros',
                         vagas: 3,
                         candidatos: 4,
@@ -777,6 +889,13 @@ export const db = {
                         notaMinima: 2895
                     },
                     {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
+                    },
+                    {
                         tipo: 'Negros',
                         vagas: 3,
                         candidatos: 8,
@@ -798,6 +917,13 @@ export const db = {
                         candidatos: 189,
                         CandidatoPorVaga: 16,
                         notaMinima: 2559
+                    },
+                    {
+                        tipo: 'negrosPublica',
+                        vagas: 0,
+                        candidatos: 0,
+                        CandidatoPorVaga: 0,
+                        notaMinima: 0
                     },
                     {
                         tipo: 'Negros',
