@@ -2,7 +2,7 @@ export const db = {
     cursos: [
         {
             id: 1,
-            nome: 'Engenharia de Software',
+            nome: 'Engenharia de Software - UEPG',
             modalidade: 'Noturno',
             salariosAtuais: [
                 {
@@ -347,7 +347,7 @@ export const db = {
         },
         {
             id: 2,
-            nome: 'Engenharia de Computação',
+            nome: 'Engenharia de Computação - UEPG',
             modalidade: 'Integral',
             salariosAtuais: [
                 {
@@ -692,7 +692,7 @@ export const db = {
         },
         {
             id: 3,
-            nome: 'Administração',
+            nome: 'Administração - UEPG',
             modalidade: 'Noturno',
             salariosAtuais: [
                 {
@@ -1037,7 +1037,7 @@ export const db = {
         },
         {
             id: 4,
-            nome: 'Análise e Desenvolvimento de Sistemas',
+            nome: 'Análise e Desenvolvimento de Sistemas - UTFPR-PG',
             modalidade: 'Noturno',
             salariosAtuais: [
                 {
@@ -1452,7 +1452,7 @@ export const db = {
         },
         {
             id: 5,
-            nome: 'Ciências de Computação',
+            nome: 'Ciências de Computação - UTFPR-PG',
             modalidade: 'Integral',
             salariosAtuais: [
                 {
