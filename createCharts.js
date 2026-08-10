@@ -31,7 +31,7 @@ export function createChartsForCourse(curso, container, Chart) {
                 <p class="salario text-muted small mb-0">
                     Salário de referência (${curso.salariosAtuais[0].cargo}):
                     <strong>R$ ${curso.salariosAtuais[0].salario.toLocaleString('pt-BR')}</strong>
-                    <a href="${curso.salariosAtuais[0].referencia}" target="_blank" rel="noopener" class="ms-1">fonte</a>
+                    <a href="${curso.salariosAtuais[0].referencia}" target="_blank" rel="noopener" class="ms-1">Fonte</a>
                 </p>
             ` : ''}
         </div>
