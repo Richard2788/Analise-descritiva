@@ -80,15 +80,6 @@ export function createChartsForCourse(curso, container, Chart) {
     });
 
     section.appendChild(chartsGrid);
-
-    // Análise resumida abaixo dos gráficos (na listagem)
-    if (curso.analise) {
-        const analiseBox = document.createElement('div');
-        analiseBox.className = 'analise-preview card-footer bg-light small text-muted';
-        analiseBox.innerHTML = `<strong>Análise:</strong> ${curso.analise}`;
-        section.appendChild(analiseBox);
-    }
-
     container.appendChild(section);
 }
 
