@@ -1,14 +1,159 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Gráficos de Cotas por Curso</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --bg: #f5f7fa;
+            --card: #ffffff;
+            --text: #1a1a2e;
+            --muted: #6b7280;
+            --border: #e5e7eb;
+            --accent: #3b82f6;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+            padding: 1.5rem;
+        }
+
+        header.page-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        header.page-header h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+        }
+
+        header.page-header p {
+            color: var(--muted);
+            font-size: 0.95rem;
+        }
+
+        .course-nav {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 0.75rem 1.25rem;
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.25rem;
+            align-items: center;
+            font-size: 0.9rem;
+        }
+
+        .course-nav a {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .course-nav a:hover {
+            text-decoration: underline;
+        }
+
+        .course-section {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 2.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        }
+
+        .course-header {
+            margin-bottom: 1.25rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .course-header h2 {
+            font-size: 1.35rem;
+            margin-bottom: 0.35rem;
+        }
+
+        .course-header .modalidade,
+        .course-header .salario {
+            font-size: 0.9rem;
+            color: var(--muted);
+        }
+
+        .course-header .salario a {
+            color: var(--accent);
+            margin-left: 0.35rem;
+            font-size: 0.85rem;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 320px;
+            background: #fafbfc;
+            border-radius: 8px;
+            padding: 0.75rem;
+            border: 1px solid var(--border);
+        }
+
+        @media (min-width: 900px) {
+            .charts-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        @media (min-width: 1400px) {
+            .charts-grid {
+                grid-template-columns: 1fr 1fr 1fr 1fr;
+            }
+        }
+
+        footer {
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.8rem;
+            margin-top: 2rem;
+            padding-top: 1rem;
+        }
+    </style>
 </head>
-
 <body>
-    <p>Olá</p>
-</body>
+    <header class="page-header">
+        <h1>Análise de Cotas por Curso</h1>
+        <p>Evolução anual de notas mínimas, concorrência, candidatos e vagas</p>
+    </header>
 
+    <main id="charts-root"></main>
+
+    <footer>
+        Dados processados de database.js · Gráficos gerados com Chart.js e GrokAI
+    </footer>
+
+    <script type="module">
+        import { db } from './database.js';
+        import { createAllCharts } from './createCharts.js';
+
+        // Chart.js está disponível globalmente via CDN (Chart)
+        createAllCharts(db.cursos, document.getElementById('charts-root'), Chart);
+    </script>
+</body>
 </html>
