@@ -1,26 +1,27 @@
 /**
- * Módulo principal para criação modularizada de gráficos Chart.js
- * Gera um conjunto de gráficos por curso + modal de expansão com seletor de métrica
+ * Criação modularizada de gráficos Chart.js
+ * Listagem + modal de expansão com seletor de métrica
+ * Compatível com bundlers (Vite) e Node 24+
  */
 
 import { buildLineData, getLineOptions, metricLabels } from './chartConfig.js';
 
 export const METRICS = ['notaMinima', 'CandidatoPorVaga', 'candidatos', 'vagas'];
 
-/** Instância atual do gráfico dentro do modal (para destruir/recriar) */
+/** @type {import('chart.js').Chart | null} */
 let modalChartInstance = null;
-/** Curso atualmente aberto no modal */
-let currentModalCurso = null;
 
 /**
- * Cria os gráficos de um único curso dentro de um container
+ * Cria os gráficos de um único curso
+ * @param {object} curso
+ * @param {HTMLElement} container
+ * @param {typeof import('chart.js').Chart} Chart
  */
 export function createChartsForCourse(curso, container, Chart) {
     const section = document.createElement('section');
     section.className = 'course-section card shadow-sm mb-4';
     section.id = `curso-${curso.id}`;
 
-    // Header com título + botão de expandir (modal)
     const header = document.createElement('div');
     header.className = 'course-header card-header bg-white d-flex justify-content-between align-items-start flex-wrap gap-2';
     header.innerHTML = `
@@ -31,7 +32,7 @@ export function createChartsForCourse(curso, container, Chart) {
                 <p class="salario text-muted small mb-0">
                     Salário de referência (${curso.salariosAtuais[0].cargo}):
                     <strong>R$ ${curso.salariosAtuais[0].salario.toLocaleString('pt-BR')}</strong>
-                    <a href="${curso.salariosAtuais[0].referencia}" target="_blank" rel="noopener" class="ms-1">Fonte</a>
+                    <a href="${curso.salariosAtuais[0].referencia}" target="_blank" rel="noopener" class="ms-1">fonte</a>
                 </p>
             ` : ''}
         </div>
@@ -40,8 +41,9 @@ export function createChartsForCourse(curso, container, Chart) {
                 data-bs-toggle="modal"
                 data-bs-target="#chartModal"
                 data-curso-id="${curso.id}"
+                data-metric="notaMinima"
                 title="Expandir gráficos">
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
                 <path d="M1.5 1a.5.5 0 0 0-.5.5v4a.5.5 0 0 1-1 0v-4A1.5 1.5 0 0 1 1.5 0h4a.5.5 0 0 1 0 1h-4zM10 .5a.5.5 0 0 1 .5-.5h4A1.5 1.5 0 0 1 16 1.5v4a.5.5 0 0 1-1 0v-4a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 1-.5-.5zM.5 10a.5.5 0 0 1 .5.5v4a.5.5 0 0 0 .5.5h4a.5.5 0 0 1 0 1h-4A1.5 1.5 0 0 1 0 14.5v-4a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v4a1.5 1.5 0 0 1-1.5 1.5h-4a.5.5 0 0 1 0-1h4a.5.5 0 0 0 .5-.5v-4a.5.5 0 0 1 .5-.5z"/>
             </svg>
             Expandir
@@ -52,32 +54,34 @@ export function createChartsForCourse(curso, container, Chart) {
     const chartsGrid = document.createElement('div');
     chartsGrid.className = 'charts-grid card-body';
 
-    METRICS.forEach(metric => {
+    for (const metric of METRICS) {
+        const { labels, datasets } = buildLineData(curso, metric);
+        const hasData = datasets.some((ds) => ds.data.some((v) => v !== null && v !== 0));
+
+        if (!hasData && metric !== 'notaMinima') continue;
+
         const chartWrapper = document.createElement('div');
-        chartWrapper.className = 'chart-wrapper';
+        chartWrapper.className = 'chart-wrapper chart-clickable';
+        chartWrapper.setAttribute('role', 'button');
+        chartWrapper.setAttribute('tabindex', '0');
+        chartWrapper.setAttribute('aria-label', `Abrir gráfico de ${metricLabels[metric]} de ${curso.nome}`);
+        chartWrapper.dataset.bsToggle = 'modal';
+        chartWrapper.dataset.bsTarget = '#chartModal';
+        chartWrapper.dataset.cursoId = String(curso.id);
+        chartWrapper.dataset.metric = metric;
+        chartWrapper.title = 'Clique para expandir';
 
         const canvas = document.createElement('canvas');
         canvas.id = `chart-${curso.id}-${metric}`;
         chartWrapper.appendChild(canvas);
         chartsGrid.appendChild(chartWrapper);
 
-        const { labels, datasets } = buildLineData(curso, metric);
-
-        const hasData = datasets.some(ds => ds.data.some(v => v !== null && v !== 0));
-        if (!hasData && metric !== 'notaMinima') {
-            chartWrapper.style.display = 'none';
-            return;
-        }
-
         new Chart(canvas, {
             type: 'line',
             data: { labels, datasets },
-            options: getLineOptions(
-                `${metricLabels[metric]} — ${curso.nome}`,
-                metric
-            )
+            options: getLineOptions(`${metricLabels[metric]} — ${curso.nome}`, metric),
         });
-    });
+    }
 
     section.appendChild(chartsGrid);
     container.appendChild(section);
@@ -90,7 +94,6 @@ function renderModalChart(curso, metric, Chart) {
     const canvas = document.getElementById('modalChartCanvas');
     if (!canvas) return;
 
-    // Destrói instância anterior para evitar vazamento de memória
     if (modalChartInstance) {
         modalChartInstance.destroy();
         modalChartInstance = null;
@@ -108,22 +111,22 @@ function renderModalChart(curso, metric, Chart) {
                 title: {
                     display: true,
                     text: `${metricLabels[metric]} — ${curso.nome}`,
-                    font: { size: 18 }
+                    font: { size: 18 },
                 },
                 legend: {
                     position: 'bottom',
-                    labels: { boxWidth: 14, padding: 12, font: { size: 13 } }
-                }
-            }
-        }
+                    labels: { boxWidth: 14, padding: 12, font: { size: 13 } },
+                },
+            },
+        },
     });
 
-    // Atualiza título do modal e análise
-    document.getElementById('chartModalLabel').textContent = curso.nome;
-    document.getElementById('modalAnalise').textContent = curso.analise || 'Análise ainda não definida.';
+    const titleEl = document.getElementById('chartModalLabel');
+    const analiseEl = document.getElementById('modalAnalise');
+    if (titleEl) titleEl.textContent = curso.nome;
+    if (analiseEl) analiseEl.textContent = curso.analise || 'Análise ainda não definida.';
 
-    // Destaca o botão da métrica ativa
-    document.querySelectorAll('#metricSelector .btn').forEach(btn => {
+    document.querySelectorAll('#metricSelector .btn').forEach((btn) => {
         btn.classList.toggle('active', btn.dataset.metric === metric);
     });
 }
@@ -133,13 +136,13 @@ function renderModalChart(curso, metric, Chart) {
  */
 function buildMetricSelector(curso, Chart) {
     const container = document.getElementById('metricSelector');
+    if (!container) return;
     container.innerHTML = '';
 
-    METRICS.forEach(metric => {
-        // Verifica se a métrica tem dados úteis
+    for (const metric of METRICS) {
         const { datasets } = buildLineData(curso, metric);
-        const hasData = datasets.some(ds => ds.data.some(v => v !== null && v !== 0));
-        if (!hasData && metric !== 'notaMinima') return;
+        const hasData = datasets.some((ds) => ds.data.some((v) => v !== null && v !== 0));
+        if (!hasData && metric !== 'notaMinima') continue;
 
         const btn = document.createElement('button');
         btn.type = 'button';
@@ -150,46 +153,44 @@ function buildMetricSelector(curso, Chart) {
             renderModalChart(curso, metric, Chart);
         });
         container.appendChild(btn);
-    });
+    }
 }
 
 /**
- * Inicializa o modal (chamado uma vez após criar os cursos)
+ * Inicializa o modal (uma vez)
+ * relatedTarget pode ser o botão "Expandir" ou o .chart-wrapper clicado
  */
 export function setupModal(cursos, Chart) {
     const modalEl = document.getElementById('chartModal');
     if (!modalEl) return;
 
-    // Quando o modal abre, carrega o curso correspondente
     modalEl.addEventListener('show.bs.modal', (event) => {
-        const button = event.relatedTarget;
-        const cursoId = Number(button.getAttribute('data-curso-id'));
-        const curso = cursos.find(c => c.id === cursoId);
+        const trigger = event.relatedTarget;
+        if (!trigger) return;
+
+        const cursoId = Number(trigger.getAttribute('data-curso-id') || trigger.dataset.cursoId);
+        const metric = trigger.getAttribute('data-metric') || trigger.dataset.metric || 'notaMinima';
+        const curso = cursos.find((c) => c.id === cursoId);
         if (!curso) return;
 
-        currentModalCurso = curso;
         buildMetricSelector(curso, Chart);
-        // Abre com a primeira métrica disponível (notaMinima)
-        renderModalChart(curso, 'notaMinima', Chart);
+        renderModalChart(curso, metric, Chart);
     });
 
-    // Limpa o gráfico ao fechar o modal
     modalEl.addEventListener('hidden.bs.modal', () => {
         if (modalChartInstance) {
             modalChartInstance.destroy();
             modalChartInstance = null;
         }
-        currentModalCurso = null;
     });
 }
 
 /**
- * Cria todos os gráficos para a lista de cursos
+ * Cria todos os gráficos
  */
 export function createAllCharts(cursos, rootContainer, Chart) {
     rootContainer.innerHTML = '';
 
-    // Navegação rápida
     const nav = document.createElement('nav');
     nav.className = 'course-nav alert alert-light border d-flex flex-wrap align-items-center gap-1 mb-4';
     nav.innerHTML = '<strong class="me-1">Cursos:</strong> ';
@@ -205,10 +206,9 @@ export function createAllCharts(cursos, rootContainer, Chart) {
     });
     rootContainer.appendChild(nav);
 
-    cursos.forEach(curso => {
+    for (const curso of cursos) {
         createChartsForCourse(curso, rootContainer, Chart);
-    });
+    }
 
-    // Configura o modal reutilizável
     setupModal(cursos, Chart);
 }
